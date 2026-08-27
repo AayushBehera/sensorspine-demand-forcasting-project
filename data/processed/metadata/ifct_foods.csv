@@ -1,0 +1,543 @@
+code,name,grup,energy_kcal_per_100g,protein_g_per_100g,fat_g_per_100g,carb_g_per_100g,fiber_g_per_100g,source_dataset
+A001,"Amaranth seed, black",Cereals and Millets,1490,14.59,5.74,59.98,7.02,ifct2017_research
+A002,"Amaranth seed, pale brown",Cereals and Millets,1489,13.27,5.56,61.46,7.47,ifct2017_research
+A003,Bajra,Cereals and Millets,1456,10.96,5.43,61.78,11.49,ifct2017_research
+A004,Barley,Cereals and Millets,1321,10.94,1.3,61.29,15.64,ifct2017_research
+A005,Jowar,Cereals and Millets,1398,9.97,1.73,67.68,10.22,ifct2017_research
+A006,"Maize, dry",Cereals and Millets,1398,8.8,3.77,64.77,12.24,ifct2017_research
+A007,"Maize, tender, local",Cereals and Millets,502,3.57,1.4,22.69,3.67,ifct2017_research
+A008,"Maize, tender, sweet",Cereals and Millets,405,4.16,1.35,16.42,3.3,ifct2017_research
+A009,Quinoa,Cereals and Millets,1374,13.11,5.5,53.65,14.66,ifct2017_research
+A010,Ragi,Cereals and Millets,1342,7.16,1.92,66.82,11.18,ifct2017_research
+A011,"Rice, flakes",Cereals and Millets,1480,7.44,1.14,76.75,3.46,ifct2017_research
+A012,"Rice, puffed",Cereals and Millets,1514,7.47,1.62,77.68,2.56,ifct2017_research
+A013,"Rice, raw, brown",Cereals and Millets,1480,9.16,1.24,74.8,4.43,ifct2017_research
+A014,"Rice, parboiled, milled",Cereals and Millets,1471,7.81,0.55,77.16,3.74,ifct2017_research
+A015,"Rice, raw, milled",Cereals and Millets,1491,7.94,0.52,78.24,2.81,ifct2017_research
+A016,Samai,Cereals and Millets,1449,10.13,3.89,65.55,7.72,ifct2017_research
+A017,Varagu,Cereals and Millets,1388,8.92,2.55,66.19,6.39,ifct2017_research
+A018,"Wheat flour, refined",Cereals and Millets,1472,10.36,0.76,74.27,2.76,ifct2017_research
+A019,"Wheat flour, atta",Cereals and Millets,1340,10.57,1.53,64.17,11.36,ifct2017_research
+A020,"Wheat, whole",Cereals and Millets,1347,10.59,1.47,64.72,11.23,ifct2017_research
+A021,"Wheat, bulgur",Cereals and Millets,1430,10.84,1.45,69.06,8.81,ifct2017_research
+A022,"Wheat, semolina",Cereals and Millets,1396,11.38,0.74,68.43,9.72,ifct2017_research
+A023,"Wheat, vermicelli",Cereals and Millets,1392,9.7,0.45,70.39,9.28,ifct2017_research
+A024,"Wheat, vermicelli, roasted",Cereals and Millets,1423,10.37,0.49,71.42,9.55,ifct2017_research
+B001,"Bengal gram, dal",Grain Legumes,1377,21.55,5.31,46.72,15.15,ifct2017_research
+B002,"Bengal gram, whole",Grain Legumes,1201,18.77,5.11,39.56,25.22,ifct2017_research
+B003,"Black gram, dal",Grain Legumes,1356,23.06,1.69,51,11.93,ifct2017_research
+B004,"Black gram, whole",Grain Legumes,1219,21.97,1.58,43.99,20.41,ifct2017_research
+B005,"Cowpea, brown",Grain Legumes,1340,20.36,1.15,54.62,11.54,ifct2017_research
+B006,"Cowpea, white",Grain Legumes,1340,21.25,1.14,53.77,11.7,ifct2017_research
+B007,"Field bean, black",Grain Legumes,1155,19.93,0.92,43.46,23.4,ifct2017_research
+B008,"Field bean, brown",Grain Legumes,1184,19.9,0.98,45.24,22.4,ifct2017_research
+B009,"Field bean, white",Grain Legumes,1173,19.84,0.94,44.53,22.99,ifct2017_research
+B010,"Green gram, dal",Grain Legumes,1363,23.88,1.35,52.59,9.37,ifct2017_research
+B011,"Green gram, whole",Grain Legumes,1229,22.53,1.14,46.13,17.04,ifct2017_research
+B012,"Horse gram, whole",Grain Legumes,1379,21.73,0.62,57.24,7.88,ifct2017_research
+B013,"Lentil, dal",Grain Legumes,1349,24.35,0.75,52.53,10.43,ifct2017_research
+B014,"Lentil, whole, brown",Grain Legumes,1251,22.49,0.64,48.47,16.82,ifct2017_research
+B015,"Lentil, whole, yellowish",Grain Legumes,1246,22.87,0.61,47.91,16.66,ifct2017_research
+B016,Moth bean,Grain Legumes,1291,19.75,1.76,52.09,15.12,ifct2017_research
+B017,"Peas, dry",Grain Legumes,1269,20.43,1.89,48.93,17.01,ifct2017_research
+B018,"Rajmah, black",Grain Legumes,1247,19.01,1.62,49.59,17.74,ifct2017_research
+B019,"Rajmah, brown",Grain Legumes,1245,19.5,1.68,48.83,16.95,ifct2017_research
+B020,"Rajmah, red",Grain Legumes,1252,19.91,1.77,48.61,16.57,ifct2017_research
+B021,"Red gram, dal",Grain Legumes,1384,21.7,1.56,55.23,9.06,ifct2017_research
+B022,"Red gram, whole",Grain Legumes,1146,20.47,1.38,42.48,22.84,ifct2017_research
+B023,Ricebean,Grain Legumes,1265,19.97,0.74,51.26,13.37,ifct2017_research
+B024,"Soya bean, brown",Grain Legumes,1596,35.58,19.82,12.79,21.55,ifct2017_research
+B025,"Soya bean, white",Grain Legumes,1579,37.8,19.42,10.16,22.63,ifct2017_research
+C001,Agathi leaves,Green Leafy Vegetables,295,8.01,1.35,5.21,8.6,ifct2017_research
+C002,"Amaranth leaves, green",Green Leafy Vegetables,128,3.29,0.65,2.28,4.41,ifct2017_research
+C003,"Amaranth leaves, red",Green Leafy Vegetables,140,3.93,0.63,2.37,4.91,ifct2017_research
+C004,"Amaranth leaves, red and green",Green Leafy Vegetables,132,3.09,0.53,2.87,4.6,ifct2017_research
+C005,"Amaranth, spinous, leaves, green",Green Leafy Vegetables,110,3.54,0.36,1.61,5.1,ifct2017_research
+C006,"Amaranth, spinous, leaves, red and green",Green Leafy Vegetables,99,2.8,0.34,1.45,5.57,ifct2017_research
+C007,Basella leaves,Green Leafy Vegetables,82,1.57,0.45,2.01,2.21,ifct2017_research
+C008,Bathua leaves,Green Leafy Vegetables,116,2.5,0.44,2.56,4.01,ifct2017_research
+C009,Beetroot leaves,Green Leafy Vegetables,145,2.38,0.75,3.86,3.64,ifct2017_research
+C010,"Betel leaves, big (kolkata)",Green Leafy Vegetables,202,2.51,0.75,7.37,2.12,ifct2017_research
+C011,"Betel leaves, small",Green Leafy Vegetables,183,2.62,0.75,6.16,1.97,ifct2017_research
+C012,Brussels sprouts,Green Leafy Vegetables,185,4.26,0.5,5.09,4.29,ifct2017_research
+C013,"Cabbage, Chinese",Green Leafy Vegetables,75,1.58,0.13,2.36,2.01,ifct2017_research
+C014,"Cabbage, collard greens",Green Leafy Vegetables,126,3.63,0.27,2.79,2.98,ifct2017_research
+C015,"Cabbage, green",Green Leafy Vegetables,90,1.36,0.12,3.25,2.76,ifct2017_research
+C016,"Cabbage, violet",Green Leafy Vegetables,97,1.39,0.21,3.54,2.21,ifct2017_research
+C017,Cauliflower leaves,Green Leafy Vegetables,148,3.9,0.42,3.39,3.43,ifct2017_research
+C018,"Colocasia leaves, green",Green Leafy Vegetables,182,3.42,1.38,3.69,5.6,ifct2017_research
+C019,Drumstick leaves,Green Leafy Vegetables,282,6.41,1.64,5.62,8.21,ifct2017_research
+C020,Fenugreek leaves,Green Leafy Vegetables,144,3.68,0.83,2.17,4.9,ifct2017_research
+C021,Garden cress,Green Leafy Vegetables,208,5.62,0.8,4.48,2.6,ifct2017_research
+C022,"Gogu leaves, green stem",Green Leafy Vegetables,152,1.86,1.09,4.06,4.59,ifct2017_research
+C023,"Gogu leaves, red stem",Green Leafy Vegetables,153,1.85,1.07,4.24,3.89,ifct2017_research
+C024,"Knol-Khol, leaves",Green Leafy Vegetables,178,3.12,0.35,6.16,2.76,ifct2017_research
+C025,Lettuce,Green Leafy Vegetables,91,1.54,0.27,3.01,1.79,ifct2017_research
+C026,Mustard leaves,Green Leafy Vegetables,127,3.52,0.51,2.41,3.92,ifct2017_research
+C027,Pak Choi leaves,Green Leafy Vegetables,67,1.41,0.25,1.78,1.91,ifct2017_research
+C028,Parsley,Green Leafy Vegetables,305,5.55,1.14,9.43,3.87,ifct2017_research
+C029,Ponnaganni,Green Leafy Vegetables,213,5.29,0.71,5.17,6.74,ifct2017_research
+C030,"Pumpkin leaves, tender",Green Leafy Vegetables,185,4.21,0.74,4.75,2.25,ifct2017_research
+C031,Radish leaves,Green Leafy Vegetables,109,2.22,0.51,2.77,1.82,ifct2017_research
+C032,Rumex leaves,Green Leafy Vegetables,82,1.62,0.33,2.33,1.27,ifct2017_research
+C033,Spinach,Green Leafy Vegetables,102,2.14,0.64,2.05,2.38,ifct2017_research
+C034,"Tamarind leaves, tender",Green Leafy Vegetables,299,5.84,0.49,10.04,10.7,ifct2017_research
+D001,Ash gourd,Other Vegetables,73,0.79,0.14,2.84,3.37,ifct2017_research
+D002,"Bamboo shoot, tender",Other Vegetables,68,1.33,0.35,1.67,1.55,ifct2017_research
+D003,"Bean scarlet, tender",Other Vegetables,179,2.86,0.99,5.16,4.5,ifct2017_research
+D004,"Bitter gourd, jagged, teeth ridges, elongate",Other Vegetables,87,1.44,0.24,2.82,3.78,ifct2017_research
+D005,"Bitter gourd, jagged, teeth ridges, short",Other Vegetables,79,1.34,0.24,2.53,3.49,ifct2017_research
+D006,"Bitter gourd, jagged, smooth ridges, elongate",Other Vegetables,81,1.61,0.26,2.29,3.72,ifct2017_research
+D007,"Bottle gourd, elongate, pale green",Other Vegetables,46,0.53,0.13,1.68,2.12,ifct2017_research
+D008,"Bottle gourd, round, pale green",Other Vegetables,57,0.42,0.12,2.53,2.1,ifct2017_research
+D009,"Bottle gourd, elongate, dark green",Other Vegetables,54,0.49,0.13,2.25,2.11,ifct2017_research
+D010,Brinjal 1,Other Vegetables,114,1.77,0.39,3.49,3.57,ifct2017_research
+D011,Brinjal 2,Other Vegetables,99,1.82,0.34,2.71,4.01,ifct2017_research
+D012,Brinjal 3,Other Vegetables,102,1.36,0.33,3.38,4.26,ifct2017_research
+D013,Brinjal 4,Other Vegetables,100,1.51,0.31,3.19,4.04,ifct2017_research
+D014,Brinjal 5,Other Vegetables,111,1.38,0.29,4.02,4.13,ifct2017_research
+D015,Brinjal 6,Other Vegetables,97,1.46,0.29,3.29,3.68,ifct2017_research
+D016,Brinjal 7,Other Vegetables,98,1.4,0.37,3.1,3.32,ifct2017_research
+D017,Brinjal 8,Other Vegetables,117,1.82,0.33,3.75,4.01,ifct2017_research
+D018,Brinjal 9,Other Vegetables,106,1.47,0.35,3.52,4,ifct2017_research
+D019,Brinjal 10,Other Vegetables,116,1.68,0.25,4.08,3.9,ifct2017_research
+D020,Brinjal 11,Other Vegetables,105,1.43,0.31,3.53,4.12,ifct2017_research
+D021,Brinjal 12,Other Vegetables,93,1.6,0.27,2.73,3.89,ifct2017_research
+D022,Brinjal 13,Other Vegetables,124,1.49,0.31,4.51,3.92,ifct2017_research
+D023,Brinjal 14,Other Vegetables,106,1.56,0.35,3.27,3.87,ifct2017_research
+D024,Brinjal 15,Other Vegetables,114,1.58,0.29,3.96,3.99,ifct2017_research
+D025,Brinjal 16,Other Vegetables,103,1.26,0.34,3.46,3.74,ifct2017_research
+D026,Brinjal 17,Other Vegetables,91,1.18,0.36,2.89,3.94,ifct2017_research
+D027,Brinjal 18,Other Vegetables,116,1.47,0.33,4.1,4.38,ifct2017_research
+D028,Brinjal 19,Other Vegetables,100,1.26,0.31,3.39,3.97,ifct2017_research
+D029,Brinjal 20,Other Vegetables,99,1.44,0.34,3.15,3.73,ifct2017_research
+D030,Brinjal 21,Other Vegetables,113,1.36,0.35,3.93,3.85,ifct2017_research
+D031,Brinjal - all varieties,Other Vegetables,106,1.48,0.32,3.52,3.98,ifct2017_research
+D032,Broad beans,Other Vegetables,123,3.85,0.15,2.11,8.63,ifct2017_research
+D033,"Capsicum, green",Other Vegetables,68,1.11,0.34,1.84,2.06,ifct2017_research
+D034,"Capsicum, red",Other Vegetables,83,1.47,0.47,2.14,2.19,ifct2017_research
+D035,"Capsicum, yellow",Other Vegetables,78,1.35,0.41,1.95,2.19,ifct2017_research
+D036,Cauliflower,Other Vegetables,96,2.15,0.44,2.03,3.71,ifct2017_research
+D037,Celery stalk,Other Vegetables,69,0.98,0.24,2.33,2.09,ifct2017_research
+D038,Cho-cho-marrow,Other Vegetables,79,0.66,0.15,3.47,1.55,ifct2017_research
+D039,Cluster beans,Other Vegetables,168,3.55,0.37,4.91,4.83,ifct2017_research
+D040,"Colocasia, stem, black",Other Vegetables,100,0.76,0.34,3.83,3.01,ifct2017_research
+D041,"Colocasia, stem, green",Other Vegetables,81,0.91,0.22,2.86,2.33,ifct2017_research
+D042,"Corn, baby",Other Vegetables,306,2.69,1.33,11.66,6.09,ifct2017_research
+D043,"Cucumber, green, elongate",Other Vegetables,82,0.71,0.16,3.48,2.14,ifct2017_research
+D044,"Cucumber, green, short",Other Vegetables,73,0.83,0.18,2.82,2.13,ifct2017_research
+D045,"Cucumber, orange, round",Other Vegetables,82,0.98,0.24,3.01,2.46,ifct2017_research
+D046,Drumstick,Other Vegetables,123,2.62,0.12,3.76,6.83,ifct2017_research
+D047,"Field beans, tender, broad",Other Vegetables,129,3.06,0.64,2.75,5.64,ifct2017_research
+D048,"Field beans, tender, lean",Other Vegetables,140,3.71,0.6,2.85,6.19,ifct2017_research
+D049,"French beans, country",Other Vegetables,102,2.49,0.26,2.68,4.38,ifct2017_research
+D050,"French beans, hybrid",Other Vegetables,93,2.12,0.19,2.63,4.18,ifct2017_research
+D051,"Jack fruit, raw",Other Vegetables,110,1.98,0.35,3.48,7.69,ifct2017_research
+D052,"Jack fruit, seeds, mature",Other Vegetables,322,5.79,0.44,11.81,8.63,ifct2017_research
+D053,Knol - Khol,Other Vegetables,67,1.58,0.35,1.39,2.75,ifct2017_research
+D054,"Kovai, big",Other Vegetables,73,1.39,0.24,2.01,3,ifct2017_research
+D055,"Kovai, small",Other Vegetables,80,1.22,0.24,2.41,3.25,ifct2017_research
+D056,Ladies finger,Other Vegetables,115,2.08,0.22,3.62,4.08,ifct2017_research
+D057,"Mango, green, raw",Other Vegetables,205,0.69,0.08,10.59,3.01,ifct2017_research
+D058,"Onion, stalk",Other Vegetables,107,2.07,0.26,2.99,5.21,ifct2017_research
+D059,"Papaya, raw",Other Vegetables,100,0.5,0.23,4.4,2.28,ifct2017_research
+D060,Parwar,Other Vegetables,101,1.4,0.3,3.54,2.61,ifct2017_research
+D061,"Peas, fresh",Other Vegetables,340,7.25,0.13,11.88,6.32,ifct2017_research
+D062,"Plantain, flower",Other Vegetables,89,1.47,0.63,2.15,5.25,ifct2017_research
+D063,"Plantain, green",Other Vegetables,334,1.18,0.23,17.58,3.6,ifct2017_research
+D064,"Plantain, stem",Other Vegetables,165,0.35,0.16,8.64,2.12,ifct2017_research
+D065,"Pumpkin, green, cylindrical",Other Vegetables,103,0.87,0.18,4.22,2.53,ifct2017_research
+D066,"Pumpkin, orange, round",Other Vegetables,97,0.84,0.16,4,2.56,ifct2017_research
+D067,"Red gram, tender, fresh",Other Vegetables,520,8.09,0.92,19.46,5.9,ifct2017_research
+D068,Ridge gourd,Other Vegetables,55,0.91,0.14,1.72,1.81,ifct2017_research
+D069,"Ridge gourd, smooth skin",Other Vegetables,64,0.98,0.13,2.24,1.85,ifct2017_research
+D070,"Snake gourd, long, pale green",Other Vegetables,52,0.98,0.25,1.27,2.27,ifct2017_research
+D071,"Snake gourd, long, dark green",Other Vegetables,50,0.89,0.25,1.23,2.27,ifct2017_research
+D072,"Snake gourd, short",Other Vegetables,61,0.54,0.26,2.15,2.29,ifct2017_research
+D073,"Tinda, tender",Other Vegetables,58,1.02,0.17,1.9,2,ifct2017_research
+D074,"Tomato, green",Other Vegetables,87,1.12,0.27,3.18,1.62,ifct2017_research
+D075,"Tomato, ripe, hybrid",Other Vegetables,79,0.76,0.25,3.2,1.58,ifct2017_research
+D076,"Tomato, ripe, local",Other Vegetables,82,0.9,0.47,2.71,1.77,ifct2017_research
+D077,"Zucchini, green",Other Vegetables,84,1.1,0.51,2.33,2.3,ifct2017_research
+D078,"Zucchini, yellow",Other Vegetables,79,1.31,0.44,2.2,1.84,ifct2017_research
+E001,"Apple, big",Fruits,261,0.29,0.64,13.11,2.59,ifct2017_research
+E002,"Apple, green",Fruits,214,0.46,0.5,10.65,2.54,ifct2017_research
+E003,"Apple, small",Fruits,267,0.31,0.53,13.95,2.06,ifct2017_research
+E004,"Apple, small, Kashmir",Fruits,269,0.27,0.6,13.99,2.07,ifct2017_research
+E005,"Apricot, dried",Fruits,1321,3.17,0.74,72.63,3.32,ifct2017_research
+E006,"Apricot, processed",Fruits,236,1.47,0.64,10.93,0.59,ifct2017_research
+E007,Avocado fruit,Fruits,604,2.95,13.86,1.75,6.69,ifct2017_research
+E008,Bael fruit,Fruits,569,2.63,0.57,28.21,6.31,ifct2017_research
+E009,"Banana, ripe, montham",Fruits,463,1.25,0.32,24.95,2.21,ifct2017_research
+E010,"Banana, ripe, poovam",Fruits,445,1.49,0.35,23.41,2.33,ifct2017_research
+E011,"Banana, ripe, red",Fruits,467,1.29,0.29,25.21,1.98,ifct2017_research
+E012,"Banana, ripe, robusta",Fruits,440,1.23,0.33,23.63,1.94,ifct2017_research
+E013,Black berry,Fruits,227,0.92,0.63,10.64,4.35,ifct2017_research
+E014,"Cherries, red",Fruits,250,1.49,0.46,11.87,2.12,ifct2017_research
+E015,"Currants, black",Fruits,227,1.51,0.53,9.93,4.07,ifct2017_research
+E016,Custard apple,Fruits,414,1.62,0.67,20.38,5.1,ifct2017_research
+E017,"Dates, dry, pale brown",Fruits,1340,2.45,0.35,74.91,8.95,ifct2017_research
+E018,"Dates, dry, dark brown",Fruits,1301,2.38,0.35,72.67,9.1,ifct2017_research
+E019,"Dates, processed",Fruits,1197,1.18,0.41,67.95,6.52,ifct2017_research
+E020,Fig,Fruits,341,2.03,0.37,16.28,4.64,ifct2017_research
+E021,Goosberry,Fruits,99,0.34,0.16,4.39,7.75,ifct2017_research
+E022,"Grapes, seeded, round, black",Fruits,254,0.76,0.32,13.23,1.35,ifct2017_research
+E023,"Grapes, seeded, round, green",Fruits,235,0.77,0.29,12.19,1.25,ifct2017_research
+E024,"Grapes, seeded, round, red",Fruits,244,0.95,0.29,12.55,1.28,ifct2017_research
+E025,"Grapes, seedless, oval, black",Fruits,395,1.41,0.46,20.48,1.64,ifct2017_research
+E026,"Grapes, seedless, round, green",Fruits,224,0.62,0.26,11.81,1.28,ifct2017_research
+E027,"Grapes, seedless, round, black",Fruits,374,1.24,0.35,19.86,1.15,ifct2017_research
+E028,"Guava, white flesh",Fruits,135,1.44,0.32,5.13,8.59,ifct2017_research
+E029,"Guava, pink flesh",Fruits,195,1.19,0.25,9.14,7.39,ifct2017_research
+E030,"Jack fruit, ripe",Fruits,302,2.74,0.15,14.01,3.62,ifct2017_research
+E031,"Jambu fruit, ripe",Fruits,235,0.82,0.17,12.3,3.07,ifct2017_research
+E032,Karonda fruit,Fruits,141,1.15,1.67,2.87,7.25,ifct2017_research
+E033,"Lemon, juice",Fruits,153,0.41,0.75,0,0,ifct2017_research
+E034,"Lime, sweet, pulp",Fruits,114,0.76,0.2,5.18,2.07,ifct2017_research
+E035,Litchi,Fruits,225,0.99,0.26,11.41,1.34,ifct2017_research
+E036,"Mango, ripe, banganapalli",Fruits,175,0.54,0.55,8.18,1.88,ifct2017_research
+E037,"Mango, ripe, gulabkhas",Fruits,209,0.52,0.53,10.32,1.67,ifct2017_research
+E038,"Mango, ripe, himsagar",Fruits,187,0.46,0.54,9.03,1.55,ifct2017_research
+E039,"Mango, ripe, kesar",Fruits,231,0.54,0.57,11.36,2.02,ifct2017_research
+E040,"Mango, ripe, neelam",Fruits,178,0.68,0.55,8.21,1.77,ifct2017_research
+E041,"Mango, ripe, paheri",Fruits,188,0.68,0.58,8.67,1.97,ifct2017_research
+E042,"Mango, ripe, totapari",Fruits,248,0.41,0.49,12.75,1.73,ifct2017_research
+E043,Mangosteen,Fruits,219,0.63,0.24,11.41,1.87,ifct2017_research
+E044,Manila tamarind,Fruits,342,3.56,1.14,13.54,4.4,ifct2017_research
+E045,"Musk melon, orange flesh",Fruits,97,0.42,0.35,4.24,1.51,ifct2017_research
+E046,"Musk melon, yellow flesh",Fruits,116,0.53,0.26,5.4,1.49,ifct2017_research
+E047,"Orange, pulp",Fruits,156,0.7,0.13,7.92,1.29,ifct2017_research
+E048,"Palm fruit, tender",Fruits,101,0.5,0.12,4.92,2.4,ifct2017_research
+E049,"Papaya, ripe",Fruits,100,0.42,0.16,4.61,2.83,ifct2017_research
+E050,Peach,Fruits,168,0.86,0.37,7.82,2.13,ifct2017_research
+E051,Pear,Fruits,157,0.36,0.27,8.09,4.48,ifct2017_research
+E052,Phalsa,Fruits,299,1.66,0.14,15.09,4.54,ifct2017_research
+E053,Pineapple,Fruits,180,0.52,0.16,9.42,3.46,ifct2017_research
+E054,Plum,Fruits,238,0.64,0.4,12.1,2.07,ifct2017_research
+E055,"Pomegranate, maroon seeds",Fruits,229,1.33,0.15,11.58,2.83,ifct2017_research
+E056,Pummelo,Fruits,210,0.68,0.42,10.64,0.8,ifct2017_research
+E057,"Raisins, dried, black",Fruits,1279,2.57,0.34,71.29,3.92,ifct2017_research
+E058,"Raisins, dried, golden",Fruits,1241,2.76,0.35,68.79,4.56,ifct2017_research
+E059,Rambutan,Fruits,306,0.68,0.16,16.84,1.02,ifct2017_research
+E060,Sapota,Fruits,307,0.92,1.26,13.9,9.6,ifct2017_research
+E061,Soursop,Fruits,260,0.74,0.94,11.94,4.95,ifct2017_research
+E062,Star fruit,Fruits,110,0.79,0.39,4.51,2.81,ifct2017_research
+E063,Strawberry,Fruits,103,0.97,0.56,3.4,2.5,ifct2017_research
+E064,"Tamarind, pulp",Fruits,1207,2.92,0.15,67.35,5.31,ifct2017_research
+E065,"Water melon, dark green (sugar baby)",Fruits,85,0.6,0.16,3.86,0.7,ifct2017_research
+E066,"Water melon, pale green",Fruits,70,0.59,0.16,3.02,0.78,ifct2017_research
+E067,Wood apple,Fruits,327,3.14,3.62,7.52,5.21,ifct2017_research
+E068,Zizyphus,Fruits,204,1.34,0.35,9.4,3.73,ifct2017_research
+F001,Beetroot,Roots and Tubers,149,1.95,0.14,6.18,3.31,ifct2017_research
+F002,"Carrot, orange",Roots and Tubers,139,0.95,0.47,5.55,4.18,ifct2017_research
+F003,"Carrot, red",Roots and Tubers,160,1.04,0.47,6.71,4.49,ifct2017_research
+F004,Colocasia,Roots and Tubers,372,3.31,0.17,17.85,3.22,ifct2017_research
+F005,Lotus root,Roots and Tubers,332,1.94,0.93,14.67,4.7,ifct2017_research
+F006,"Potato, brown skin, big",Roots and Tubers,292,1.54,0.23,14.89,1.71,ifct2017_research
+F007,"Potato, brown skin, small",Roots and Tubers,255,1.35,0.22,12.9,1.69,ifct2017_research
+F008,"Potato, red skin",Roots and Tubers,306,1.83,0.22,15.43,1.68,ifct2017_research
+F009,"Radish, elongate, red skin",Roots and Tubers,134,0.67,0.13,6.71,2.46,ifct2017_research
+F010,"Radish, elongate, white skin",Roots and Tubers,135,0.77,0.15,6.56,2.65,ifct2017_research
+F011,"Radish, round, red skin",Roots and Tubers,130,0.89,0.16,6.07,2.29,ifct2017_research
+F012,"Radish, round, white skin",Roots and Tubers,129,0.8,0.14,6.13,2.37,ifct2017_research
+F013,"Sweet potato, brown skin",Roots and Tubers,456,1.33,0.26,24.25,3.99,ifct2017_research
+F014,"Sweet potato, pink skin",Roots and Tubers,452,1.27,0.33,23.93,3.94,ifct2017_research
+F015,Tapioca,Roots and Tubers,334,1.03,0.2,17.81,4.61,ifct2017_research
+F016,Water Chestnut,Roots and Tubers,400,0.86,0.37,21.46,3.02,ifct2017_research
+F017,"Yam, elephant",Roots and Tubers,353,2.56,0.14,17.46,4.17,ifct2017_research
+F018,"Yam, ordinary",Roots and Tubers,349,2.18,0.17,17.65,4.08,ifct2017_research
+F019,"Yam, wild",Roots and Tubers,430,3.07,0.3,20.95,4.57,ifct2017_research
+G001,"Chillies, green-1",Condiments and Spices,191,2.62,0.73,6.32,4.86,ifct2017_research
+G002,"Chillies, green-2",Condiments and Spices,167,2.28,0.75,5.27,5.13,ifct2017_research
+G003,"Chillies, green-3",Condiments and Spices,169,2.38,0.75,5.23,5.1,ifct2017_research
+G004,"Chillies, green-4",Condiments and Spices,190,2.33,0.74,6.63,4.15,ifct2017_research
+G005,"Chillies, green-5",Condiments and Spices,180,2.01,0.65,6.64,3.95,ifct2017_research
+G006,"Chillies, green-6",Condiments and Spices,175,3.01,0.64,5.31,5.15,ifct2017_research
+G007,"Chillies, green-7",Condiments and Spices,163,2.12,0.6,5.61,4.95,ifct2017_research
+G008,"Chillies, green - all varieties",Condiments and Spices,177,2.36,0.72,5.86,4.77,ifct2017_research
+G009,Coriander leaves,Condiments and Spices,130,3.52,0.7,1.93,4.66,ifct2017_research
+G010,Curry leaves,Condiments and Spices,266,7.41,1.06,4.51,16.83,ifct2017_research
+G011,"Garlic, big cloves",Condiments and Spices,518,6.92,0.16,21.93,5.22,ifct2017_research
+G012,"Garlic, small cloves",Condiments and Spices,514,6.75,0.14,21.84,5.47,ifct2017_research
+G013,"Garlic, single clove, Kashmir",Condiments and Spices,523,6.12,0.16,23.46,4.01,ifct2017_research
+G014,"Ginger, fresh",Condiments and Spices,230,2.22,0.85,8.97,5.36,ifct2017_research
+G015,Mango ginger,Condiments and Spices,177,1.45,0.7,6.98,4.74,ifct2017_research
+G016,Mint leaves,Condiments and Spices,155,4.66,0.65,2.39,5.89,ifct2017_research
+G017,"Onion, big",Condiments and Spices,201,1.5,0.24,9.56,2.45,ifct2017_research
+G018,"Onion, small",Condiments and Spices,237,1.82,0.16,11.58,1.16,ifct2017_research
+G019,Asafoetida,Condiments and Spices,1387,6.34,1.26,71.95,5.13,ifct2017_research
+G020,"Cardamom, green",Condiments and Spices,1067,8.1,2.6,47.76,23.1,ifct2017_research
+G021,"Cardamom, black",Condiments and Spices,1132,6.69,2.8,52.53,23.46,ifct2017_research
+G022,"Chillies, red",Condiments and Spices,990,12.69,6.4,29.46,31.15,ifct2017_research
+G023,Cloves,Condiments and Spices,781,5.86,8.41,18.73,34.52,ifct2017_research
+G024,Coriander seeds,Condiments and Spices,1125,10.66,17.47,12.98,44.81,ifct2017_research
+G025,Cumin seeds,Condiments and Spices,1274,13.91,16.64,22.62,30.35,ifct2017_research
+G026,Fenugreek seeds,Condiments and Spices,983,25.41,5.72,10.57,47.55,ifct2017_research
+G027,Mace,Condiments and Spices,1488,6.24,24.41,26.51,20.31,ifct2017_research
+G028,Nutmeg,Condiments and Spices,1940,6.3,36.52,27.64,11.99,ifct2017_research
+G029,Omum,Condiments and Spices,1495,15.89,21.11,24.53,20.58,ifct2017_research
+G030,Pippali,Condiments and Spices,906,10.53,2.27,35.7,34.14,ifct2017_research
+G031,"Pepper, black",Condiments and Spices,910,10.12,2.74,36.22,33.16,ifct2017_research
+G032,Poppy seeds,Condiments and Spices,1768,20.31,30.38,12.37,26.68,ifct2017_research
+G033,Turmeric powder,Condiments and Spices,1174,7.66,5.03,49.22,21.38,ifct2017_research
+H001,Almond,Nuts and Oil Seeds,2549,18.41,58.49,3.04,13.06,ifct2017_research
+H002,"Arecanut, dried, brown",Nuts and Oil Seeds,1467,5.78,4.35,70.42,11.44,ifct2017_research
+H003,"Arecanut, dried, red color",Nuts and Oil Seeds,1477,6.46,4.46,70.27,11.11,ifct2017_research
+H004,"Arecanut, fresh",Nuts and Oil Seeds,1024,2.73,5.51,45,7.63,ifct2017_research
+H005,Cashew nut,Nuts and Oil Seeds,2438,18.78,45.2,25.46,3.86,ifct2017_research
+H006,"Coconut, kernel, dry",Nuts and Oil Seeds,2611,7.27,63.26,8.01,15.88,ifct2017_research
+H007,"Coconut, kernel, fresh",Nuts and Oil Seeds,1711,3.84,41.38,6.3,10.42,ifct2017_research
+H008,"Garden cress, seeds",Nuts and Oil Seeds,1863,23.36,23.74,33.66,8.27,ifct2017_research
+H009,"Gingelly seeds, black",Nuts and Oil Seeds,2124,19.17,43.1,10.29,17.16,ifct2017_research
+H010,"Gingelly seeds, brown",Nuts and Oil Seeds,2161,21.61,43.22,9.76,17.21,ifct2017_research
+H011,"Gingelly seeds, white",Nuts and Oil Seeds,2174,21.7,43.05,10.83,16.99,ifct2017_research
+H012,Ground nut,Nuts and Oil Seeds,2176,23.65,39.63,17.27,10.38,ifct2017_research
+H013,Mustard seeds,Nuts and Oil Seeds,2132,19.51,40.19,16.8,14.1,ifct2017_research
+H014,Linseeds,Nuts and Oil Seeds,1857,18.55,35.67,10.99,26.17,ifct2017_research
+H015,"Niger seeds, black",Nuts and Oil Seeds,2144,18.92,38.61,22.98,10.93,ifct2017_research
+H016,"Niger seeds, grey",Nuts and Oil Seeds,2128,18.34,39.53,20.59,10.96,ifct2017_research
+H017,Pine seeds,Nuts and Oil Seeds,2486,12.55,48.79,26.77,3.79,ifct2017_research
+H018,Pistachio nuts,Nuts and Oil Seeds,2257,23.35,42.49,15.82,10.64,ifct2017_research
+H019,Safflower seeds,Nuts and Oil Seeds,1981,17.66,30.87,30.18,13.49,ifct2017_research
+H020,Sunflower seeds,Nuts and Oil Seeds,2453,23.53,51.85,6.85,10.8,ifct2017_research
+H021,Walnut,Nuts and Oil Seeds,2809,14.92,64.27,10.14,5.39,ifct2017_research
+I001,"Jaggery, cane",Sugars,1480,1.85,0.16,84.87,0,ifct2017_research
+I002,"Sugarcane, juice",Sugars,242,0.16,0.4,13.11,0.56,ifct2017_research
+J001,"Button mushroom, fresh",Mushrooms,115,3.68,0.42,1.98,3.11,ifct2017_research
+J002,"Chicken mushroom, fresh",Mushrooms,89,1.84,0.25,2.76,1.99,ifct2017_research
+J003,"Shiitake mushroom, fresh",Mushrooms,243,3.19,0.76,8.98,3.02,ifct2017_research
+J004,"Oyster mushroom, dried",Mushrooms,1019,19.04,2.86,33.07,39.12,ifct2017_research
+K001,Toddy,Miscellaneous Foods,101,0.18,0.03,5.72,0,ifct2017_research
+K002,Coconut water,Miscellaneous Foods,64,0.26,0.16,3.16,0,ifct2017_research
+L001,"Milk, whole, Buffalo",Milk and Milk Products,449,3.68,6.58,8.39,0,ifct2017_research
+L002,"Milk, whole, Cow",Milk and Milk Products,305,3.26,4.48,4.94,0,ifct2017_research
+L003,Paneer,Milk and Milk Products,1079,18.86,14.78,12.41,0,ifct2017_research
+L004,Khoa,Milk and Milk Products,1322,16.34,20.62,16.53,0,ifct2017_research
+M001,"Egg, poultry, whole, raw",Egg and Egg Products,564,13.28,9.15,0,0,ifct2017_research
+M002,"Egg, poultry, white, raw",Egg and Egg Products,187,10.84,0.06,0,0,ifct2017_research
+M003,"Egg, poultry, yolk, raw",Egg and Egg Products,1242,15.74,26.34,0,0,ifct2017_research
+M004,"Egg, poultry, whole, boiled",Egg and Egg Products,618,13.43,10.54,0,0,ifct2017_research
+M005,"Egg, poultry, white, boiled",Egg and Egg Products,220,12.37,0.26,0,0,ifct2017_research
+M006,"Egg, poultry, yolk, boiled",Egg and Egg Products,1290,16.13,27.46,0,0,ifct2017_research
+M007,"Egg, poultry, omlet",Egg and Egg Products,710,16.53,11.6,0,0,ifct2017_research
+M008,"Egg, country hen, whole, raw",Egg and Egg Products,704,13.14,13,0,0,ifct2017_research
+M009,"Egg, country hen, whole, boiled",Egg and Egg Products,767,14.43,14.1,0,0,ifct2017_research
+M010,"Egg, country hen, omlet",Egg and Egg Products,855,14.8,16.3,0,0,ifct2017_research
+M011,"Egg, duck, whole, boiled",Egg and Egg Products,738,13.8,13.61,0,0,ifct2017_research
+M012,"Egg, duck, whole, raw",Egg and Egg Products,760,14.6,13.83,0,0,ifct2017_research
+M013,"Egg, duck, whole, omlet",Egg and Egg Products,804,15.1,14.8,0,0,ifct2017_research
+M014,"Egg, quial, whole, raw",Egg and Egg Products,635,12.39,11.46,0,0,ifct2017_research
+M015,"Egg, quial, whole, boiled",Egg and Egg Products,647,13.03,11.5,0,0,ifct2017_research
+N001,"Chicken, poultry, leg, skinless",Poultry,1605,19.44,12.64,0,0,ifct2017_research
+N002,"Chicken, poultry, thigh, skinless",Poultry,836,18.18,14.23,0,0,ifct2017_research
+N003,"Chicken, poultry, breast, skinless",Poultry,704,21.81,9,0,0,ifct2017_research
+N004,"Chicken, poultry, wing, skinless",Poultry,807,17.42,13.81,0,0,ifct2017_research
+N005,"Poultry, chicken, liver",Poultry,518,21.57,4.08,0,0,ifct2017_research
+N006,"Poultry, chicken, gizzard",Poultry,386,18.22,2.07,0,0,ifct2017_research
+N007,"Country hen, leg, with skin",Poultry,723,17.01,11.73,0,0,ifct2017_research
+N008,"Country hen, thigh, with skin",Poultry,785,18.29,12.82,0,0,ifct2017_research
+N009,"Country hen, breast, with skin",Poultry,753,22.08,10.2,0,0,ifct2017_research
+N010,"Country hen, wing, with skin",Poultry,764,18.65,12.09,0,0,ifct2017_research
+N011,"Duck, meat, with skin",Poultry,547,19.07,6.03,0,0,ifct2017_research
+N012,"Emu, meat, skinless",Poultry,556,22.65,4.62,0,0,ifct2017_research
+N013,"Guinea fowl, meat, with skin",Poultry,469,20.52,3.24,0,0,ifct2017_research
+N014,"Pigeon, meat, with skin",Poultry,528,17.94,6.03,0,0,ifct2017_research
+N015,"Quail, meat, skinless",Poultry,576,20.92,5.95,0,0,ifct2017_research
+N016,"Turkey, leg, with skin",Poultry,647,20.3,8.15,0,0,ifct2017_research
+N017,"Turkey, thigh, with skin",Poultry,581,20.46,6.31,0,0,ifct2017_research
+N018,"Turkey, breast, with skin",Poultry,671,21.96,8.04,0,0,ifct2017_research
+N019,"Turkey, wing, with skin",Poultry,771,21.91,10.77,0,0,ifct2017_research
+O001,"Goat, shoulder, meat",Animal Meat,787,20.33,11.94,0,0,ifct2017_research
+O002,"Goat, chops",Animal Meat,568,20.39,5.98,0,0,ifct2017_research
+O003,"Goat, legs",Animal Meat,669,22.07,7.94,0,0,ifct2017_research
+O004,"Goat, brain",Animal Meat,533,13.82,8.06,0,0,ifct2017_research
+O005,"Goat, tongue",Animal Meat,789,16.63,13.68,0,0,ifct2017_research
+O006,"Goat, lungs",Animal Meat,401,16.86,3.09,0,0,ifct2017_research
+O007,"Goat, heart",Animal Meat,492,19.38,4.4,0,0,ifct2017_research
+O008,"Goat, liver",Animal Meat,526,20.32,4.88,0,0,ifct2017_research
+O009,"Goat, tripe",Animal Meat,386,15.36,3.36,0,0,ifct2017_research
+O010,"Goat, spleen",Animal Meat,401,18.45,2.37,0,0,ifct2017_research
+O011,"Goat, kidneys",Animal Meat,374,15.6,2.93,0,0,ifct2017_research
+O012,"Goat, tube (small intestine)",Animal Meat,525,12.92,8.26,0,0,ifct2017_research
+O013,"Goat, testis",Animal Meat,298,12.32,2.39,0,0,ifct2017_research
+O014,"Sheep, shoulder",Animal Meat,840,18.24,14.31,0,0,ifct2017_research
+O015,"Sheep, chops",Animal Meat,496,18,5.15,0,0,ifct2017_research
+O016,"Sheep, leg",Animal Meat,686,21.42,8.69,0,0,ifct2017_research
+O017,"Sheep, brain",Animal Meat,492,13.05,7.29,0,0,ifct2017_research
+O018,"Sheep, tongue",Animal Meat,783,16.61,13.53,0,0,ifct2017_research
+O019,"Sheep, lungs",Animal Meat,363,16.12,2.41,0,0,ifct2017_research
+O020,"Sheep, heart",Animal Meat,445,18.19,3.66,0,0,ifct2017_research
+O021,"Sheep, liver",Animal Meat,559,22.26,4.87,0,0,ifct2017_research
+O022,"Sheep, tripe",Animal Meat,435,16.76,4.05,0,0,ifct2017_research
+O023,"Sheep, spleen",Animal Meat,384,16.02,3.02,0,0,ifct2017_research
+O024,"Sheep, kidneys",Animal Meat,384,16.22,2.92,0,0,ifct2017_research
+O025,"Beef, shoulder",Animal Meat,889,20.56,14.59,0,0,ifct2017_research
+O026,"Beef, chops",Animal Meat,585,19.82,6.71,0,0,ifct2017_research
+O027,"Beef, round (leg)",Animal Meat,658,22.64,7.38,0,0,ifct2017_research
+O028,"Beef, brain",Animal Meat,523,10.55,9.28,0,0,ifct2017_research
+O029,"Beef, tongue",Animal Meat,731,15.63,12.57,0,0,ifct2017_research
+O030,"Beef, lungs",Animal Meat,351,15.66,2.28,0,0,ifct2017_research
+O031,"Beef, heart",Animal Meat,433,17.68,3.57,0,0,ifct2017_research
+O032,"Beef, liver",Animal Meat,499,20.73,3.96,0,0,ifct2017_research
+O033,"Beef, tripe",Animal Meat,316,13.1,2.51,0,0,ifct2017_research
+O034,"Beef, spleen",Animal Meat,378,17.42,2.22,0,0,ifct2017_research
+O035,"Beef, kidneys",Animal Meat,439,17.09,4.01,0,0,ifct2017_research
+O036,"Calf, shoulder",Animal Meat,633,20.98,7.47,0,0,ifct2017_research
+O037,"Calf, chops",Animal Meat,524,22.47,3.85,0,0,ifct2017_research
+O038,"Calf, round (leg)",Animal Meat,615,21.1,6.92,0,0,ifct2017_research
+O039,"Calf, brain",Animal Meat,448,9.84,7.6,0,0,ifct2017_research
+O040,"Calf, tongue",Animal Meat,737,17.78,11.76,0,0,ifct2017_research
+O041,"Calf, heart",Animal Meat,459,18.84,3.75,0,0,ifct2017_research
+O042,"Calf, liver",Animal Meat,503,21.02,3.95,0,0,ifct2017_research
+O043,"Calf, spleen",Animal Meat,379,17.71,2.12,0,0,ifct2017_research
+O044,"Calf, kidneys",Animal Meat,387,15.16,3.5,0,0,ifct2017_research
+O045,"Mithun, shoulder",Animal Meat,736,19.05,11.14,0,0,ifct2017_research
+O046,"Mithun, chops",Animal Meat,536,18.19,6.12,0,0,ifct2017_research
+O047,"Mithun, round (leg)",Animal Meat,485,19.61,4.1,0,0,ifct2017_research
+O048,"Pork, shoulder",Animal Meat,993,17.41,18.83,0,0,ifct2017_research
+O049,"Pork, chops",Animal Meat,748,19.41,11.3,0,0,ifct2017_research
+O050,"Pork, ham",Animal Meat,1006,18.83,18.55,0,0,ifct2017_research
+O051,"Pork, lungs",Animal Meat,358,15.13,2.74,0,0,ifct2017_research
+O052,"Pork, heart",Animal Meat,457,16.31,4.87,0,0,ifct2017_research
+O053,"Pork, liver",Animal Meat,484,19.89,3.94,0,0,ifct2017_research
+O054,"Pork, stomach",Animal Meat,550,15.36,7.81,0,0,ifct2017_research
+O055,"Pork, spleen",Animal Meat,357,15.13,2.71,0,0,ifct2017_research
+O056,"Pork, kidneys",Animal Meat,379,14.35,3.65,0,0,ifct2017_research
+O057,"Pork, tube (small intestine)",Animal Meat,587,14.96,8.98,0,0,ifct2017_research
+O058,"Hare, shoulder",Animal Meat,603,21.13,6.58,0,0,ifct2017_research
+O059,"Hare, chops",Animal Meat,445,20.62,2.55,0,0,ifct2017_research
+O060,"Hare, leg",Animal Meat,503,20.52,4.16,0,0,ifct2017_research
+O061,"Rabbit, shoulder",Animal Meat,635,20.01,7.96,0,0,ifct2017_research
+O062,"Rabbit, chops",Animal Meat,565,22.61,4.88,0,0,ifct2017_research
+O063,"Rabbit, leg",Animal Meat,584,21.31,5.99,0,0,ifct2017_research
+P001,Allathi,Marine Fish,406,21.77,0.98,0,0,ifct2017_research
+P002,Aluva,Marine Fish,434,21.63,1.8,0,0,ifct2017_research
+P003,Anchovy,Marine Fish,367,19.88,0.78,0,0,ifct2017_research
+P004,Ari fish,Marine Fish,415,22.01,1.11,0,0,ifct2017_research
+P005,Betki,Marine Fish,284,15.28,0.29,0,0,ifct2017_research
+P006,Black snapper,Marine Fish,377,19.5,1.24,0,0,ifct2017_research
+P007,Bombay duck,Marine Fish,287,13.53,1.03,0,0,ifct2017_research
+P008,Bommuralu,Marine Fish,485,22.3,2.87,0,0,ifct2017_research
+P009,Cat fish,Marine Fish,456,22.18,2.13,0,0,ifct2017_research
+P010,Chakla,Marine Fish,406,20.21,1.68,0,0,ifct2017_research
+P011,Chappal,Marine Fish,317,17.17,0.67,0,0,ifct2017_research
+P012,Chelu,Marine Fish,366,20.02,0.7,0,0,ifct2017_research
+P013,Chembali,Marine Fish,406,20.06,1.77,0,0,ifct2017_research
+P014,Eri meen,Marine Fish,454,22.3,2.02,0,0,ifct2017_research
+P015,Gobro,Marine Fish,362,19.37,0.88,0,0,ifct2017_research
+P016,Guitar fish,Marine Fish,400,22.56,0.44,0,0,ifct2017_research
+P017,Hilsa,Marine Fish,1083,21.8,18.49,0,0,ifct2017_research
+P018,Jallal,Marine Fish,420,21.55,1.46,0,0,ifct2017_research
+P019,Jathi vela meen,Marine Fish,453,22.45,1.92,0,0,ifct2017_research
+P020,Kadal bral,Marine Fish,368,18.72,1.34,0,0,ifct2017_research
+P021,Kadali,Marine Fish,530,22.07,4.2,0,0,ifct2017_research
+P022,Kalamaara,Marine Fish,523,20.89,4.54,0,0,ifct2017_research
+P023,Kalava,Marine Fish,374,19.38,1.2,0,0,ifct2017_research
+P024,Kanamayya,Marine Fish,367,20.19,0.65,0,0,ifct2017_research
+P025,Kannadi paarai,Marine Fish,423,22.09,1.27,0,0,ifct2017_research
+P026,Karimeen,Marine Fish,386,19.68,1.38,0,0,ifct2017_research
+P027,Karnagawala,Marine Fish,363,19.52,0.84,0,0,ifct2017_research
+P028,Kayrai,Marine Fish,454,20.15,3,0,0,ifct2017_research
+P029,Kiriyan,Marine Fish,556,22.49,4.7,0,0,ifct2017_research
+P030,Kite fish,Marine Fish,413,23.07,0.56,0,0,ifct2017_research
+P031,Korka,Marine Fish,528,23.72,3.36,0,0,ifct2017_research
+P032,Kulam paarai,Marine Fish,501,21.62,3.6,0,0,ifct2017_research
+P033,Maagaa,Marine Fish,366,20.11,0.67,0,0,ifct2017_research
+P034,Mackerel,Marine Fish,423,21.51,1.53,0,0,ifct2017_research
+P035,Manda clathi,Marine Fish,398,21.27,1,0,0,ifct2017_research
+P036,Matha,Marine Fish,389,21.17,0.79,0,0,ifct2017_research
+P037,Milk fish,Marine Fish,442,23.66,1.09,0,0,ifct2017_research
+P038,Moon fish,Marine Fish,526,20.74,4.69,0,0,ifct2017_research
+P039,Mullet,Marine Fish,393,20.23,1.32,0,0,ifct2017_research
+P040,Mural,Marine Fish,345,19.04,0.58,0,0,ifct2017_research
+P041,Myil meen,Marine Fish,410,22.89,0.56,0,0,ifct2017_research
+P042,Nalla bontha,Marine Fish,364,19.82,0.72,0,0,ifct2017_research
+P043,Narba,Marine Fish,432,21.95,1.6,0,0,ifct2017_research
+P044,Paarai,Marine Fish,435,21.58,1.84,0,0,ifct2017_research
+P045,Padayappa,Marine Fish,360,19.7,0.69,0,0,ifct2017_research
+P046,Pali kora,Marine Fish,394,19.25,1.81,0,0,ifct2017_research
+P047,Pambada,Marine Fish,537,21.95,4.44,0,0,ifct2017_research
+P048,Pandukopa,Marine Fish,360,19.73,0.65,0,0,ifct2017_research
+P049,Parava,Marine Fish,467,21.5,2.74,0,0,ifct2017_research
+P050,Parcus,Marine Fish,361,19.87,0.62,0,0,ifct2017_research
+P051,Parrot fish,Marine Fish,375,20.82,0.57,0,0,ifct2017_research
+P052,Perinkilichai,Marine Fish,387,20.89,0.87,0,0,ifct2017_research
+P053,Phopat,Marine Fish,424,22.05,1.33,0,0,ifct2017_research
+P054,Piranha,Marine Fish,549,20.46,5.43,0,0,ifct2017_research
+P055,"Pomfret, black",Marine Fish,515,18.91,4.83,0,0,ifct2017_research
+P056,"Pomfret, snub nose",Marine Fish,375,21.05,0.46,0,0,ifct2017_research
+P057,"Pomfret, white",Marine Fish,513,19.02,5.12,0,0,ifct2017_research
+P058,Pranel,Marine Fish,405,19.69,1.89,0,0,ifct2017_research
+P059,Pulli paarai,Marine Fish,399,20.06,1.55,0,0,ifct2017_research
+P060,Queen fish,Marine Fish,400,20.97,1.17,0,0,ifct2017_research
+P061,Raai fish,Marine Fish,430,21.61,1.69,0,0,ifct2017_research
+P062,Raai vanthu,Marine Fish,410,19.39,2.17,0,0,ifct2017_research
+P063,Rani,Marine Fish,377,18.83,1.49,0,0,ifct2017_research
+P064,"Ray fish, bow head, spotted",Marine Fish,349,19.03,0.7,0,0,ifct2017_research
+P065,Red snapper,Marine Fish,437,22.79,1.34,0,0,ifct2017_research
+P066,"Red snapper, small",Marine Fish,451,21.5,2.3,0,0,ifct2017_research
+P067,Sadaya,Marine Fish,462,20.68,2.97,0,0,ifct2017_research
+P068,Salmon,Marine Fish,721,20.97,9.86,0,0,ifct2017_research
+P069,Sangada,Marine Fish,443,20.26,2.67,0,0,ifct2017_research
+P070,Sankata parai,Marine Fish,434,21.87,1.68,0,0,ifct2017_research
+P071,Sardine,Marine Fish,637,17.91,8.99,0,0,ifct2017_research
+P072,Shark,Marine Fish,398,21.6,0.83,0,0,ifct2017_research
+P073,"Shark, hammer head",Marine Fish,432,23.4,0.8,0,0,ifct2017_research
+P074,"Shark, spotted",Marine Fish,384,20.95,0.75,0,0,ifct2017_research
+P075,Shelavu,Marine Fish,446,22.46,1.74,0,0,ifct2017_research
+P076,Silan,Marine Fish,633,22.72,6.68,0,0,ifct2017_research
+P077,Silk fish,Marine Fish,408,20.65,1.53,0,0,ifct2017_research
+P078,Silver carp,Marine Fish,555,21.71,5.17,0,0,ifct2017_research
+P079,Sole fish,Marine Fish,367,19.05,1.18,0,0,ifct2017_research
+P080,Stingray,Marine Fish,408,23.98,0.68,0,0,ifct2017_research
+P081,Tarlava,Marine Fish,414,21.72,1.2,0,0,ifct2017_research
+P082,Tholam,Marine Fish,432,20.78,2.13,0,0,ifct2017_research
+P083,Tilapia,Marine Fish,349,18.48,1.08,0,0,ifct2017_research
+P084,Tuna,Marine Fish,470,24.5,1.44,0,0,ifct2017_research
+P085,"Tuna, striped",Marine Fish,403,21.28,1.12,0,0,ifct2017_research
+P086,Valava,Marine Fish,410,21.8,1.06,0,0,ifct2017_research
+P087,Vanjaram,Marine Fish,570,22.28,5.18,0,0,ifct2017_research
+P088,Vela meen,Marine Fish,537,22.16,4.34,0,0,ifct2017_research
+P089,Vora,Marine Fish,422,20.14,2.14,0,0,ifct2017_research
+P090,Whale shark,Marine Fish,401,21.83,0.82,0,0,ifct2017_research
+P091,Xiphinis,Marine Fish,370,19.82,0.88,0,0,ifct2017_research
+P092,"Eggs, cat fish",Marine Fish,600,24.68,5.28,0,0,ifct2017_research
+Q001,Crab,Marine Shellfish,343,10.23,1.41,0,0,ifct2017_research
+Q002,"Crab, sea",Marine Shellfish,283,15.36,0.6,0,0,ifct2017_research
+Q003,"Lobster, brown",Marine Shellfish,292,15.96,0.56,0,0,ifct2017_research
+Q004,"Lobster, king size",Marine Shellfish,375,18.54,0.78,0,0,ifct2017_research
+Q005,Mud crab,Marine Shellfish,190,10,0.55,0,0,ifct2017_research
+Q006,Oyster,Marine Shellfish,252,9.51,2.44,0,0,ifct2017_research
+Q007,"Tiger prawns, brown",Marine Shellfish,273,14.85,0.56,0,0,ifct2017_research
+Q008,"Tiger Prawns, orange",Marine Shellfish,270,14.25,0.74,0,0,ifct2017_research
+R001,"Clam, green shell",Marine Mollusks,243,12.14,0.98,0,0,ifct2017_research
+R002,"Clam, white shell, ribbed",Marine Mollusks,250,11.82,1.34,0,0,ifct2017_research
+R003,Octopus,Marine Mollusks,334,14.71,1.12,0,0,ifct2017_research
+R004,"Squid, black",Marine Mollusks,335,16.1,1.07,0,0,ifct2017_research
+R005,"Squid, hard shell",Marine Mollusks,320,16.82,0.93,0,0,ifct2017_research
+R006,"Squid, red",Marine Mollusks,329,16.25,1.44,0,0,ifct2017_research
+R007,"Squid, white, small",Marine Mollusks,353,17.41,1.15,0,0,ifct2017_research
+S001,Cat fish,Fresh Water Fish and Shellfish,518,15.86,6.24,0,0,ifct2017_research
+S002,Catla,Fresh Water Fish and Shellfish,394,17.94,2.15,0,0,ifct2017_research
+S003,Fresh water Eel,Fresh Water Fish and Shellfish,451,20.41,2.63,0,0,ifct2017_research
+S004,Gold fish,Fresh Water Fish and Shellfish,396,16.91,2.94,0,0,ifct2017_research
+S005,Pangas,Fresh Water Fish and Shellfish,852,17.12,16.77,0,0,ifct2017_research
+S006,Rohu,Fresh Water Fish and Shellfish,428,19.71,2.39,0,0,ifct2017_research
+S007,Crab,Fresh Water Fish and Shellfish,327,13.23,0.89,0,0,ifct2017_research
+S008,"Prawns, big",Fresh Water Fish and Shellfish,380,19.24,0.52,0,0,ifct2017_research
+S009,"Prawns, small",Fresh Water Fish and Shellfish,297,13.07,0.78,0,0,ifct2017_research
+S010,Tiger prawns,Fresh Water Fish and Shellfish,284,14.24,0.66,0,0,ifct2017_research
+T001,Coconut oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T002,Corn oil,Edible Oils and Fats,0,0,100.01,0,0,ifct2017_research
+T003,Cotton seed oil,Edible Oils and Fats,0,0,99.99,0,0,ifct2017_research
+T004,Gingelly oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T005,Groundnut oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T006,Mustard oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T007,Palm oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T008,Rice bran oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T009,Safflower oil,Edible Oils and Fats,0,0,100.01,0,0,ifct2017_research
+T010,Safflower oil (blended),Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T011,Soyabean oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T012,Sunflower oil,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T013,Ghee,Edible Oils and Fats,0,0,100,0,0,ifct2017_research
+T014,Vanaspati,Edible Oils and Fats,0,0,100,0,0,ifct2017_research

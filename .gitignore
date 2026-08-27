@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.db
+data/model.joblib
+data/clean_service_records.csv
+data/raw_service_records.csv
+data/weather.csv
+data/context_events.csv
+data/distances.csv
+config/thresholds.json
+
+.refact/
+.token-optimizer/
+graphify-out/

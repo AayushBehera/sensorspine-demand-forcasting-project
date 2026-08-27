@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "graphify": {
+      "type": "local",
+      "command": [
+        "C:/Users/aayus/.local/bin/graphify-mcp",
+        "C:/Users/aayus/Downloads/Food-Service Demand Forecasting and Surplus Redistribution for Campuses and Hospitality-sensorspine/graphify-out/graph.json"
+      ],
+      "enabled": true
+    }
+  }
+}

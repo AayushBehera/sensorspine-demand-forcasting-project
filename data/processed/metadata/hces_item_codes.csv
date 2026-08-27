@@ -1,0 +1,163 @@
+item_code,item_name,category,confidence,is_subtotal,excluded_unclear_aggregate,unit,source
+001,coarse grains - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+002,coarse grains - other sources,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+003,paneer,dairy,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+004,prepared sweets (milk-based? - verify),sugar_sweets,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+005,cheese (verify),dairy,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+006,lassi,dairy,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+007,buttermilk,dairy,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+011,soda drinks,beverages,medium,False,False,litre,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+055,jowar & products - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+056,bajra & products - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+057,maize & products - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+058,barley & products - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+059,ragi & products - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+060,small millets - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+061,rice - free (PMGKAY),rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+062,wheat/atta - free (PMGKAY),wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+070,coarse grains - free (PMGKAY),rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+071,pulses - free (PMGKAY),dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+072,gram - free (PMGKAY),dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+073,salt - free (PMGKAY),salt,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+074,sugar - free (PMGKAY),sugar_sweets,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+075,edible oil - free (PMGKAY),oils_fats,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+076,cooked meals - subsidized rate,served_processed,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+092,DDM aggregate (unclear),other,low,False,True,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+093,DDM aggregate (unclear),other,low,False,True,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+094,DDM aggregate (unclear),other,low,False,True,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+095,DDM aggregate (unclear),other,low,False,True,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+101,rice - PDS,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+102,rice - other sources,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+103,chira (flattened rice),rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+105,muri (puffed rice),rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+106,other rice products (khoi/lawa),rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+107,wheat/atta - PDS,wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+108,wheat/atta - other sources,wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+110,maida,wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+111,suji/rawa,wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+112,vermicelli (sewai),wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+114,other wheat products,wheat_breads,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+115,jowar & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+116,bajra & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+117,maize & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+118,barley & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+120,small millets & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+121,ragi & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+122,other cereals & products,rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+129,cereal sub-total,rice_cereals,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+139,cereal substitutes (tapioca),rice_cereals,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+140,arhar/tur,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+141,gram - split,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+142,gram - whole,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+143,moong,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+144,masur,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+145,urd,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+146,peas/chickpeas,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+148,other pulses (khesari),dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+150,besan/gram products,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+152,other pulse products (soya chunks),dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+158,pulses - PDS,dal_pulses,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+159,pulses sub-total,dal_pulses,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+160,milk - liquid,dairy,high,False,False,litre,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+162,milk product (condensed/powder - verify),dairy,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+163,curd/yogurt,dairy,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+164,ghee,dairy,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+165,butter,dairy,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+166,ice-cream,dairy,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+167,milk others,dairy,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+169,milk group sub-total,dairy,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+170,salt - other sources,salt,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+171,sugar - PDS,sugar_sweets,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+172,sugar - other sources,sugar_sweets,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+173,jaggery (gur),sugar_sweets,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+174,candy/misri,sugar_sweets,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+175,honey,sugar_sweets,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+178,salt - PDS,salt,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+179,salt & sugar sub-total,other,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+180,vanaspati/margarine,oils_fats,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+181,mustard oil,oils_fats,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+182,groundnut oil,oils_fats,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+183,coconut oil,oils_fats,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+184,other edible oil (verify),oils_fats,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+185,edible oil others,oils_fats,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+188,edible oil - PDS,oils_fats,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+189,edible oil sub-total,oils_fats,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+190,eggs,egg,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+191,fish/prawn,fish,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+192,meat (goat/sheep - verify),chicken_meat,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+193,beef/buffalo meat,chicken_meat,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+194,pork,chicken_meat,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+195,chicken,chicken_meat,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+196,other meat (verify),chicken_meat,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+199,egg/fish/meat sub-total,chicken_meat,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+200,potato,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+201,onion,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+202,tomato,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+203,brinjal,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+204,radish,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+205,carrot,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+206,vegetable (verify),vegetables,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+207,green chillies,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+208,lady's finger,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+210,leafy vegetable (verify),vegetables,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+211,cauliflower,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+212,cabbage,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+213,gourd/pumpkin,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+214,peas,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+215,beans/barbati,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+216,lemon,vegetables,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+217,other vegetables,vegetables,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+219,vegetables sub-total,vegetables,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+220,banana,fruits,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+221,jackfruit,fruits,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+222,watermelon,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+223,pineapple,fruits,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+224,coconut,fruits,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+225,green coconut,fruits,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+226,guava,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+230,papaya,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+231,mango,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+232,kharbooza/muskmelon,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+233,pears/nashpati,fruits,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+234,berries,fruits,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+235,litchi,fruits,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+236,apple,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+237,grapes,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+238,other fruits fresh,fruits,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+239,fruits fresh sub-total,fruits,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+240,coconut - copra,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+241,groundnut,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+242,dates,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+243,cashew nut,fruits,high,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+245,dry fruit (raisin/walnut - verify),fruits,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+246,dry fruit (verify),fruits,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+247,other fruits dry,fruits,medium,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+249,fruits dry sub-total,fruits,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+250,ginger (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+251,garlic (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+252,cumin/jeera (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+253,spice (coriander? - verify),spices,low,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+254,turmeric (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+255,black pepper (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+256,dry chillies (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+257,tamarind (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+258,curry powder/misc spice (gm) - verify,spices,low,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+260,oilseeds (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+261,other spices (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+263,poppy seeds (gm),spices,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+269,spices sub-total,spices,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+270,tea - cups,beverages,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+271,tea - leaf (gm),beverages,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+272,coffee - cups,beverages,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+273,coffee - powder (gm),beverages,high,False,False,gram,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+274,mineral water,beverages,high,False,False,litre,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+275,beverage (juice? - verify),beverages,low,False,False,litre,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+276,beverage (soft drink? - verify),beverages,low,False,False,litre,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+278,beverage (other? - verify),beverages,low,False,False,litre,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+279,beverages sub-total,beverages,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+280,cooked meals purchased,served_processed,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+281,cooked meals - free at workplace,served_processed,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+282,cooked meals - assistance/free,served_processed,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+283,packed processed food (verify),served_processed,low,False,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+284,other served processed food,served_processed,high,False,False,number,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31
+289,served processed food sub-total,served_processed,high,True,False,kg,HCES 2023-24 FDQ Vol-II questionnaire pp.24-31

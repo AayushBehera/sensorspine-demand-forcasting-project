@@ -1,0 +1,377 @@
+factsheet_table,Group,Item,Year,Rural India-Without Imputation,Urban India-Without Imputation,Rural India-With Imputation,Urban India-With Imputation,Imputation,Rural,Urban,States/Uts,Sector,Average MPCE (Rs.),source_dataset
+%CompositionMPCE,Food,Cereal,2011-12,10.69,6.61,10.69,6.61,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Cereal Substitutes,2011-12,0.06,0.05,0.06,0.05,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Gram,2011-12,0.14,0.11,0.14,0.11,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Pulses and Pulse Products*,2011-12,2.76,1.93,2.76,1.93,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Sugar & Salt,2011-12,1.83,1.15,1.83,1.15,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Milk and Milk Products,2011-12,8.04,7.01,8.04,7.01,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Vegetables,2011-12,6.62,4.63,6.62,4.63,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Fruits (Fresh),2011-12,2.25,2.64,2.25,2.64,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Fruits (Dry),2011-12,0.58,0.78,0.58,0.78,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,"Egg, Fish & Meat",2011-12,4.79,3.65,4.79,3.65,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Edible Oil,2011-12,3.74,2.66,3.74,2.66,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Spices,2011-12,3.5,2.42,3.5,2.42,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,"Beverages, Processed Food# etc.",2011-12,7.9,8.98,7.9,8.98,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,"Pan, Tobacco & Intoxicants",2011-12,3.21,1.61,3.21,1.61,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Fuel and Light,2011-12,7.98,6.69,7.98,6.69,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Toilet Articles & Other Household Consumables,2011-12,4.01,3.88,4.01,3.88,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Education,2011-12,3.49,6.9,3.49,6.9,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Medical (Hospitalization),2011-12,2.15,1.96,2.15,1.96,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Medical (Non- Hospitalization),2011-12,4.5,3.58,4.5,3.58,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Conveyance,2011-12,4.2,6.52,4.2,6.52,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Consumer Services Excluding Conveyance&,2011-12,3.99,5.6,3.99,5.6,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Entertainment,2011-12,0.99,1.61,0.99,1.61,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Rent,2011-12,0.45,6.24,0.45,6.24,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Other Taxes & Cesses,2011-12,0.25,0.82,0.25,0.82,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Clothing & Bedding$,2011-12,5.99,5.37,5.99,5.37,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Footwear,2011-12,1.02,1.0,1.02,1.0,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Durable Goods,2011-12,4.85,5.6,4.85,5.6,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Cereal,2022-23,4.89,3.62,6.9,4.49,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Cereal Substitutes,2022-23,0.02,0.02,0.02,0.02,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Gram,2022-23,0.24,0.18,0.24,0.18,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Pulses and Pulse Products*,2022-23,1.77,1.21,1.73,1.2,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Sugar & Salt,2022-23,0.93,0.6,0.92,0.6,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Milk and Milk Products,2022-23,8.33,7.22,8.14,7.15,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Vegetables,2022-23,5.38,3.8,5.26,3.76,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Fruits (Fresh),2022-23,2.54,2.5,2.48,2.48,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Fruits (Dry),2022-23,1.17,1.31,1.15,1.29,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,"Egg, Fish & Meat",2022-23,4.91,3.57,4.8,3.54,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Edible Oil,2022-23,3.59,2.37,3.52,2.35,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Spices,2022-23,2.98,2.13,2.92,2.11,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,"Beverages, Processed Food# etc.",2022-23,9.62,10.64,9.41,10.53,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,"Pan, Tobacco & Intoxicants",2022-23,3.79,2.43,3.7,2.41,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Fuel and Light,2022-23,6.66,6.26,6.51,6.2,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Toilet Articles & Other Household Consumables,2022-23,5.12,4.98,5.01,4.93,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Education,2022-23,3.3,5.78,3.23,5.73,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Medical (Hospitalization),2022-23,2.36,1.91,2.31,1.89,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Medical (Non- Hospitalization),2022-23,4.77,4.0,4.66,3.96,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Conveyance,2022-23,7.55,8.59,7.38,8.51,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Consumer Services Excluding Conveyance&,2022-23,5.08,5.92,4.96,5.86,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Entertainment,2022-23,1.09,1.58,1.06,1.57,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Rent,2022-23,0.78,6.56,0.76,6.49,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Other Taxes & Cesses,2022-23,0.13,0.24,0.12,0.24,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Clothing & Bedding$,2022-23,5.24,4.64,5.18,4.62,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Footwear,2022-23,0.86,0.77,0.85,0.76,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Durable Goods,2022-23,6.89,7.17,6.79,7.13,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Cereal,2023-24,4.97,3.74,7.58,4.78,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Cereal Substitutes,2023-24,0.02,0.02,0.02,0.02,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Gram,2023-24,0.26,0.18,0.25,0.18,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Pulses and Pulse Products*,2023-24,1.78,1.22,1.74,1.21,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Sugar & Salt,2023-24,0.89,0.57,0.87,0.56,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Milk and Milk Products,2023-24,8.44,7.19,8.19,7.11,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Vegetables,2023-24,6.03,4.12,5.85,4.07,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Fruits (Fresh),2023-24,2.66,2.61,2.58,2.59,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Fruits (Dry),2023-24,1.19,1.26,1.15,1.24,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,"Egg, Fish & Meat",2023-24,4.92,3.56,4.78,3.52,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Edible Oil,2023-24,2.77,1.82,2.7,1.8,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,Spices,2023-24,3.27,2.3,3.17,2.27,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Food,"Beverages, Processed Food# etc.",2023-24,9.84,11.09,9.55,10.96,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,"Pan, Tobacco & Intoxicants",2023-24,3.84,2.37,3.73,2.34,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Fuel and Light,2023-24,6.11,5.59,5.93,5.53,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Toilet Articles & Other Household Consumables,2023-24,5.2,5.15,5.04,5.09,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Education,2023-24,3.24,5.97,3.14,5.9,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Medical (Hospitalization),2023-24,2.25,1.96,2.19,1.94,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Medical (Non- Hospitalization),2023-24,4.58,3.89,4.44,3.85,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Conveyance,2023-24,7.59,8.46,7.36,8.36,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Consumer Services Excluding Conveyance&,2023-24,5.25,5.72,5.1,5.65,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Entertainment,2023-24,1.02,1.77,0.99,1.75,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Rent,2023-24,0.56,6.58,0.55,6.5,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Other Taxes & Cesses,2023-24,0.21,0.33,0.2,0.32,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Clothing & Bedding$,2023-24,5.67,4.8,5.61,4.77,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Footwear,2023-24,0.96,0.86,0.95,0.86,,,,,,,hces2324_factsheet_official
+%CompositionMPCE,Non-Food,Durable Goods,2023-24,6.48,6.87,6.34,6.83,,,,,,,hces2324_factsheet_official
+Trend in level of Consumption,,,2011-12 (68th Round),,,,,Without Imputation,1430.0,2630.0,,,,hces2324_factsheet_official
+Trend in level of Consumption,,,2022-23,,,,,Without Imputation,3773.0,6459.0,,,,hces2324_factsheet_official
+Trend in level of Consumption,,,2023-24,,,,,Without Imputation,4122.0,6996.0,,,,hces2324_factsheet_official
+Trend in level of Consumption,,,2011-12 (68th Round),,,,,With Imputation,1430.0,2630.0,,,,hces2324_factsheet_official
+Trend in level of Consumption,,,2022-23,,,,,With Imputation,3860.0,6521.0,,,,hces2324_factsheet_official
+Trend in level of Consumption,,,2023-24,,,,,With Imputation,4247.0,7078.0,,,,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Andhra Pradesh,Rural,5327,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Arunachal Pradesh,Rural,5995,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Assam,Rural,3793,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Bihar,Rural,3670,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Chhattisgarh,Rural,2739,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Delhi,Rural,7400,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Goa,Rural,8048,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Gujarat,Rural,4116,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Haryana,Rural,5377,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Himachal Pradesh,Rural,5825,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Jharkhand,Rural,2946,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Karnataka,Rural,4903,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Kerala,Rural,6611,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Madhya Pradesh,Rural,3441,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Maharashtra,Rural,4145,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Manipur,Rural,4531,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Meghalaya,Rural,3852,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Mizoram,Rural,5963,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Nagaland,Rural,5155,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Odisha,Rural,3357,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Punjab,Rural,5817,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Rajasthan,Rural,4510,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Sikkim,Rural,9377,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Tamil Nadu,Rural,5701,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Telangana,Rural,5435,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Tripura,Rural,6259,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Uttar Pradesh,Rural,3481,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Uttarakhand,Rural,5003,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,West Bengal,Rural,3620,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Andaman & N Islands,Rural,7771,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Chandigarh,Rural,8857,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Rural,4311,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Jammu & Kashmir,Rural,4774,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Ladakh,Rural,5010,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Lakshadweep,Rural,6350,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Puducherry,Rural,7598,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Andhra Pradesh,Urban,7182,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Arunachal Pradesh,Urban,9832,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Assam,Urban,6794,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Bihar,Urban,5080,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Chhattisgarh,Urban,4927,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Delhi,Urban,8534,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Goa,Urban,9726,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Gujarat,Urban,7175,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Haryana,Urban,8428,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Himachal Pradesh,Urban,9223,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Jharkhand,Urban,5393,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Karnataka,Urban,8076,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Kerala,Urban,7783,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Madhya Pradesh,Urban,5538,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Maharashtra,Urban,7363,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Manipur,Urban,5945,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Meghalaya,Urban,7839,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Mizoram,Urban,8709,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Nagaland,Urban,8022,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Odisha,Urban,5825,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Punjab,Urban,7359,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Rajasthan,Urban,6574,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Sikkim,Urban,13927,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Tamil Nadu,Urban,8165,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Telangana,Urban,8978,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Tripura,Urban,8034,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Uttar Pradesh,Urban,5395,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Uttarakhand,Urban,7486,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,West Bengal,Urban,5775,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Andaman & N Islands,Urban,10453,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Chandigarh,Urban,13425,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Urban,6837,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Jammu & Kashmir,Urban,6327,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Ladakh,Urban,7533,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Lakshadweep,Urban,6377,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,Without Imputation,,,Puducherry,Urban,8637,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Andhra Pradesh,Rural,5539,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Arunachal Pradesh,Rural,6107,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Assam,Rural,3961,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Bihar,Rural,3788,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Chhattisgarh,Rural,2927,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Delhi,Rural,7415,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Goa,Rural,8178,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Gujarat,Rural,4190,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Haryana,Rural,5449,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Himachal Pradesh,Rural,5833,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Jharkhand,Rural,3056,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Karnataka,Rural,5068,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Kerala,Rural,6673,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Madhya Pradesh,Rural,3522,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Maharashtra,Rural,4249,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Manipur,Rural,4592,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Meghalaya,Rural,3900,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Mizoram,Rural,5963,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Nagaland,Rural,5282,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Odisha,Rural,3509,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Punjab,Rural,5874,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Rajasthan,Rural,4626,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Sikkim,Rural,9474,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Tamil Nadu,Rural,5872,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Telangana,Rural,5675,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Tripura,Rural,6368,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Uttar Pradesh,Rural,3578,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Uttarakhand,Rural,5123,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,West Bengal,Rural,3815,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Andaman & N Islands,Rural,7805,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Chandigarh,Rural,8857,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Rural,4450,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Jammu & Kashmir,Rural,4896,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Ladakh,Rural,5063,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Lakshadweep,Rural,6489,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Puducherry,Rural,7609,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Andhra Pradesh,Urban,7341,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Arunachal Pradesh,Urban,9877,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Assam,Urban,6913,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Bihar,Urban,5165,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Chhattisgarh,Urban,5114,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Delhi,Urban,8548,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Goa,Urban,9782,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Gujarat,Urban,7198,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Haryana,Urban,8462,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Himachal Pradesh,Urban,9230,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Jharkhand,Urban,5455,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Karnataka,Urban,8169,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Kerala,Urban,7834,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Madhya Pradesh,Urban,5589,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Maharashtra,Urban,7415,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Manipur,Urban,6005,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Meghalaya,Urban,7857,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Mizoram,Urban,8709,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Nagaland,Urban,8136,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Odisha,Urban,5925,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Punjab,Urban,7383,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Rajasthan,Urban,6640,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Sikkim,Urban,13965,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Tamil Nadu,Urban,8325,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Telangana,Urban,9131,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Tripura,Urban,8118,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Uttar Pradesh,Urban,5474,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Uttarakhand,Urban,7547,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,West Bengal,Urban,5903,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Andaman & N Islands,Urban,10461,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Chandigarh,Urban,13425,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Urban,6876,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Jammu & Kashmir,Urban,6375,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Ladakh,Urban,7561,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Lakshadweep,Urban,6477,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2023-24,,,,,With Imputation,,,Puducherry,Urban,8639,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,,,,,,,,,,,,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Andhra Pradesh,Rural,4870,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Arunachal Pradesh,Rural,5276,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Assam,Rural,3432,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Bihar,Rural,3384,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Chhattisgarh,Rural,2466,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Delhi,Rural,6576,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Goa,Rural,7367,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Gujarat,Rural,3798,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Haryana,Rural,4859,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Himachal Pradesh,Rural,5561,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Jharkhand,Rural,2763,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Karnataka,Rural,4397,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Kerala,Rural,5924,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Madhya Pradesh,Rural,3113,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Maharashtra,Rural,4010,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Manipur,Rural,4360,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Meghalaya,Rural,3514,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Mizoram,Rural,5224,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Nagaland,Rural,4393,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Odisha,Rural,2950,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Punjab,Rural,5315,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Rajasthan,Rural,4263,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Sikkim,Rural,7731,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Tamil Nadu,Rural,5310,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Telangana,Rural,4802,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Tripura,Rural,5206,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Uttarakhand,Rural,4641,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Uttar Pradesh,Rural,3191,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,West Bengal,Rural,3239,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Andaman & N Islands,Rural,7332,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Chandigarh,Rural,7467,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Rural,4184,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Jammu & Kashmir,Rural,4296,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Ladakh,Rural,4035,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Lakshadweep,Rural,5895,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Puducherry,Rural,6590,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Andhra Pradesh,Urban,6782,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Arunachal Pradesh,Urban,8636,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Assam,Urban,6136,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Bihar,Urban,4768,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Chhattisgarh,Urban,4483,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Delhi,Urban,8217,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Goa,Urban,8734,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Gujarat,Urban,6621,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Haryana,Urban,7911,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Himachal Pradesh,Urban,8075,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Jharkhand,Urban,4931,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Karnataka,Urban,7666,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Kerala,Urban,7078,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Madhya Pradesh,Urban,4987,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Maharashtra,Urban,6657,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Manipur,Urban,4880,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Meghalaya,Urban,6433,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Mizoram,Urban,7655,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Nagaland,Urban,7098,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Odisha,Urban,5187,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Punjab,Urban,6544,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Rajasthan,Urban,5913,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Sikkim,Urban,12105,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Tamil Nadu,Urban,7630,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Telangana,Urban,8158,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Tripura,Urban,7405,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Uttarakhand,Urban,7004,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Uttar Pradesh,Urban,5040,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,West Bengal,Urban,5267,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Andaman & N Islands,Urban,10268,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Chandigarh,Urban,12575,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Urban,6298,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Jammu & Kashmir,Urban,6179,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Ladakh,Urban,6215,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Lakshadweep,Urban,5475,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,Without Imputation,,,Puducherry,Urban,7706,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Andhra Pradesh,Rural,4996,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Arunachal Pradesh,Rural,5300,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Assam,Rural,3546,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Bihar,Rural,3454,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Chhattisgarh,Rural,2575,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Delhi,Rural,6595,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Goa,Rural,7388,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Gujarat,Rural,3820,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Haryana,Rural,4912,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Himachal Pradesh,Rural,5573,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Jharkhand,Rural,2796,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Karnataka,Rural,4578,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Kerala,Rural,5960,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Madhya Pradesh,Rural,3158,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Maharashtra,Rural,4076,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Manipur,Rural,4370,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Meghalaya,Rural,3530,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Mizoram,Rural,5243,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Nagaland,Rural,4457,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Odisha,Rural,2996,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Punjab,Rural,5363,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Rajasthan,Rural,4348,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Sikkim,Rural,7787,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Tamil Nadu,Rural,5457,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Telangana,Rural,4959,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Tripura,Rural,5301,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Uttarakhand,Rural,4721,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Uttar Pradesh,Rural,3277,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,West Bengal,Rural,3407,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Andaman & N Islands,Rural,7332,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Chandigarh,Rural,7467,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Rural,4229,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Jammu & Kashmir,Rural,4357,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Ladakh,Rural,4062,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Lakshadweep,Rural,5979,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Puducherry,Rural,6627,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Andhra Pradesh,Urban,6877,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Arunachal Pradesh,Urban,8649,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Assam,Urban,6210,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Bihar,Urban,4819,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Chhattisgarh,Urban,4557,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Delhi,Urban,8250,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Goa,Urban,8761,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Gujarat,Urban,6630,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Haryana,Urban,7948,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Himachal Pradesh,Urban,8083,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Jharkhand,Urban,4946,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Karnataka,Urban,7781,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Kerala,Urban,7102,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Madhya Pradesh,Urban,5011,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Maharashtra,Urban,6683,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Manipur,Urban,4902,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Meghalaya,Urban,6450,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Mizoram,Urban,7664,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Nagaland,Urban,7159,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Odisha,Urban,5223,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Punjab,Urban,6577,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Rajasthan,Urban,5970,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Sikkim,Urban,12125,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Tamil Nadu,Urban,7742,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Telangana,Urban,8251,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Tripura,Urban,7473,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Uttarakhand,Urban,7034,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Uttar Pradesh,Urban,5104,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,West Bengal,Urban,5426,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Andaman & N Islands,Urban,10268,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Chandigarh,Urban,12577,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Dadra & Nagar Haveli and Daman & Diu,Urban,6306,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Jammu & Kashmir,Urban,6200,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Ladakh,Urban,6227,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Lakshadweep,Urban,5511,hces2324_factsheet_official
+MonthlyPerCapitaConsumptionExpe,,,2022-23,,,,,With Imputation,,,Puducherry,Urban,7741,hces2324_factsheet_official

@@ -1,0 +1,114 @@
+/* Chat-only layout: full-height column, message stream, composer. */
+.chat-shell {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 920px;
+  margin: 0 auto;
+  background: var(--bg);
+}
+
+.chat-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 18px;
+  border-bottom: 1px solid var(--border);
+  background: var(--panel);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.brand { display: flex; align-items: baseline; gap: 10px; font-weight: 600; }
+.brand .logo { color: var(--accent); font-size: 18px; }
+.brand .muted { color: var(--text-faint); font-weight: 400; font-size: 13px; }
+.top-actions { display: flex; align-items: center; gap: 10px; }
+
+.messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 22px 18px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.greeting { margin: auto 0; text-align: center; color: var(--text-faint); }
+.greeting h1 { font-size: 20px; color: var(--text); margin-bottom: 8px; }
+.greeting p { max-width: 520px; margin: 0 auto; font-size: 14px; }
+
+.msg { display: flex; gap: 10px; max-width: 100%; }
+.msg.user { flex-direction: row-reverse; }
+.avatar {
+  width: 30px; height: 30px; flex: 0 0 30px; border-radius: 50%;
+  display: grid; place-items: center; background: var(--panel-2);
+  border: 1px solid var(--border); font-size: 15px;
+}
+.bubble {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 12px 14px;
+  max-width: 78%;
+  min-width: 0;
+}
+.msg.user .bubble { background: var(--accent-soft); border-color: var(--accent); }
+.msg-text { font-size: 14px; line-height: 1.55; white-space: pre-wrap; }
+.msg-text b { color: var(--text); }
+
+/* suggested chips */
+.suggested {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  padding: 6px 18px 0;
+}
+.chip {
+  border: 1px solid var(--border); background: var(--panel);
+  color: var(--text); border-radius: 999px; padding: 6px 12px;
+  font-size: 12.5px; cursor: pointer; transition: .15s;
+}
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+
+.composer {
+  display: flex; gap: 10px; padding: 12px 18px;
+  border-top: 1px solid var(--border); background: var(--panel);
+  position: sticky; bottom: 0;
+}
+.chat-input {
+  flex: 1; background: var(--bg); border: 1px solid var(--border);
+  border-radius: 10px; padding: 11px 13px; color: var(--text);
+  font-size: 14px; outline: none;
+}
+.chat-input:focus { border-color: var(--accent); }
+.foot-note {
+  text-align: center; font-size: 11px; color: var(--text-faint);
+  padding: 4px 18px 10px; background: var(--panel);
+}
+
+/* blocks render inside a bubble */
+.blocks { display: flex; flex-direction: column; gap: 12px; margin-top: 10px; }
+.kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 8px; }
+.kpi-card {
+  background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+  padding: 10px 12px;
+}
+.kpi-card .k-label { font-size: 11.5px; color: var(--text-faint); }
+.kpi-card .k-value { font-size: 19px; font-weight: 600; margin-top: 2px; font-variant-numeric: tabular-nums; }
+.kpi-card.good { border-color: var(--good); }
+.kpi-card.warn { border-color: var(--warn); }
+.kpi-card.bad { border-color: var(--bad); }
+
+.chart-box { width: 100%; height: 240px; background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 6px; }
+.chart-box.tall { height: 300px; }
+.map-box { width: 100%; height: 340px; border-radius: 10px; border: 1px solid var(--border); overflow: hidden; }
+
+.block-title { font-size: 13px; font-weight: 600; color: var(--text); margin: 2px 0 4px; }
+.block-note { font-size: 12px; color: var(--text-faint); font-style: italic; }
+
+.dots span { animation: blink 1.2s infinite; }
+.dots span:nth-child(2) { animation-delay: .2s; }
+.dots span:nth-child(3) { animation-delay: .4s; }
+@keyframes blink { 0%,100%{opacity:.2} 50%{opacity:1} }
+
+@media (max-width: 640px) {
+  .bubble { max-width: 90%; }
+  .greeting h1 { font-size: 17px; }
+}

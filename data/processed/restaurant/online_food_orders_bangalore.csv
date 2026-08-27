@@ -1,0 +1,389 @@
+age,gender,marital_status,occupation,monthly_income,education,family_size,latitude,longitude,pin_code,ordered_online,feedback_sentiment,city,country,granularity,source_dataset,source_record_id
+20,Female,Single,Student,No Income,Post Graduate,4,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_0
+24,Female,Single,Student,Below Rs.10000,Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_1
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,560017,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_2
+22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,560019,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_3
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_4
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,560103,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_5
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_6
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,560042,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_7
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_8
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,560048,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_9
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_10
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,560009,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_11
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,560078,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_12
+21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_13
+23,Female,Single,Self Employeed,10001 to 25000,Post Graduate,5,12.9438,77.5738,560004,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_14
+24,Female,Single,Student,No Income,Post Graduate,6,12.8893,77.6399,560068,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_15
+28,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_16
+23,Female,Single,Student,No Income,Graduate,3,12.982,77.6256,560008,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_17
+25,Male,Single,Student,No Income,Graduate,4,12.8988,77.5764,560078,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_18
+21,Female,Single,Student,Below Rs.10000,Post Graduate,1,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_19
+24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_20
+22,Male,Single,Student,No Income,Post Graduate,4,13.0298,77.6047,560032,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_21
+22,Female,Single,Student,No Income,Graduate,4,12.9983,77.6409,560033,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_22
+23,Male,Single,Student,No Income,Graduate,4,12.9925,77.5633,560021,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_23
+21,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9306,77.5434,560085,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_24
+25,Male,Single,Student,No Income,Post Graduate,3,12.982,77.6256,560008,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_25
+22,Female,Single,Student,No Income,Post Graduate,5,12.9353,77.5585,560050,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_26
+22,Male,Single,Student,No Income,Post Graduate,3,12.9155,77.5135,560098,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_27
+23,Female,Single,Employee,10001 to 25000,Graduate,3,12.9854,77.7081,560048,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_28
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,13.0019,77.5713,560003,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_29
+22,Female,Single,Employee,10001 to 25000,Graduate,5,12.9698,77.75,560066,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_30
+22,Male,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_31
+25,Male,Married,Employee,More than 50000,Ph.D,4,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_32
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_33
+22,Female,Single,Student,No Income,Post Graduate,2,12.9119,77.6446,560102,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_34
+25,Male,Single,Student,10001 to 25000,Post Graduate,3,12.9306,77.5434,560085,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_35
+25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,560009,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_36
+32,Female,Prefer not to say,House wife,No Income,Graduate,5,12.982,77.6256,560008,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_37
+23,Female,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,560004,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_38
+23,Female,Single,Student,No Income,Post Graduate,4,12.8988,77.5764,560078,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_39
+30,Male,Married,Self Employeed,More than 50000,Uneducated,4,12.9662,77.6068,560025,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_40
+23,Male,Single,Student,No Income,Graduate,3,12.9565,77.5484,560026,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_41
+23,Male,Single,Student,No Income,Post Graduate,4,12.9925,77.5633,560021,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_42
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_43
+22,Male,Single,Student,No Income,Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_44
+27,Female,Married,Self Employeed,10001 to 25000,Post Graduate,2,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_45
+24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_46
+23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_47
+23,Female,Single,Student,No Income,Graduate,3,12.982,77.6256,560008,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_48
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_49
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_50
+23,Female,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_51
+24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_52
+25,Male,Single,Student,No Income,Post Graduate,2,12.9635,77.5821,560002,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_53
+22,Male,Single,Student,No Income,Post Graduate,3,12.9306,77.5434,560085,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_54
+28,Female,Married,Student,No Income,Graduate,2,13.0067,77.545,560086,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_55
+22,Female,Single,Student,No Income,Post Graduate,1,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_56
+24,Female,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_57
+31,Male,Married,Employee,More than 50000,Ph.D,5,12.9119,77.6446,560102,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_58
+25,Male,Single,Student,No Income,Post Graduate,4,13.0067,77.545,560086,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_59
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,560078,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_60
+22,Male,Single,Student,No Income,Post Graduate,3,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_61
+23,Male,Single,Student,25001 to 50000,Post Graduate,1,13.0158,77.539,560096,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_62
+23,Male,Single,Student,No Income,Graduate,4,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_63
+23,Female,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,560003,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_64
+25,Male,Single,Student,No Income,Post Graduate,6,13.0012,77.5995,560046,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_65
+24,Male,Single,Employee,10001 to 25000,Graduate,4,12.9442,77.6076,560030,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_66
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_67
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_68
+24,Female,Married,Employee,More than 50000,Ph.D,4,12.9438,77.5738,560004,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_69
+22,Male,Single,Student,No Income,Graduate,4,12.9889,77.5741,560020,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_70
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,560028,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_71
+25,Female,Single,Student,No Income,Post Graduate,3,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_72
+23,Male,Single,Student,No Income,Post Graduate,2,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_73
+26,Male,Single,Student,No Income,Post Graduate,4,13.0019,77.5713,560003,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_74
+24,Female,Single,Student,25001 to 50000,Post Graduate,3,13.102,77.5864,560064,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_75
+26,Male,Single,Student,No Income,Post Graduate,4,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_76
+21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_77
+22,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_78
+24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,560011,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_79
+24,Male,Single,Student,10001 to 25000,Post Graduate,4,12.9037,77.5376,560061,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_80
+23,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_81
+23,Male,Single,Student,No Income,Post Graduate,3,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_82
+22,Male,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,560004,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_83
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_84
+24,Female,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_85
+24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,560011,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_86
+25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_87
+25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,560009,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_88
+28,Male,Married,Self Employeed,10001 to 25000,Graduate,2,13.0289,77.54,560022,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_89
+27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,13.0289,77.54,560022,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_90
+26,Male,Single,Self Employeed,10001 to 25000,Ph.D,1,12.9698,77.75,560066,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_91
+22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_92
+24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_93
+23,Male,Single,Student,No Income,Post Graduate,1,12.9561,77.5921,560027,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_94
+25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_95
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_96
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_97
+26,Male,Married,Employee,25001 to 50000,Graduate,5,12.9579,77.6309,560007,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_98
+32,Female,Married,House wife,No Income,Uneducated,3,13.014,77.5658,560012,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_99
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,560028,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_100
+23,Male,Single,Student,No Income,Post Graduate,2,12.9442,77.6076,560030,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_101
+22,Female,Single,Employee,10001 to 25000,Graduate,3,12.9698,77.75,560066,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_102
+24,Female,Single,Student,No Income,Ph.D,3,12.9438,77.5738,560004,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_103
+26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9261,77.6221,560034,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_104
+28,Male,Married,Employee,More than 50000,Graduate,3,12.9698,77.75,560066,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_105
+26,Male,Single,Employee,More than 50000,Post Graduate,2,12.9698,77.75,560066,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_106
+25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_107
+25,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9698,77.75,560066,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_108
+18,Male,Single,Student,No Income,Graduate,5,12.9635,77.5821,560002,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_109
+21,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_110
+25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_111
+25,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.9925,77.5633,560021,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_112
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_113
+23,Male,Single,Employee,10001 to 25000,Post Graduate,2,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_114
+25,Female,Married,Employee,25001 to 50000,Graduate,4,12.9551,77.6593,560017,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_115
+31,Female,Married,House wife,No Income,School,5,13.0289,77.54,560022,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_116
+24,Male,Prefer not to say,Self Employeed,More than 50000,Ph.D,2,13.0138,77.5877,560006,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_117
+32,Female,Married,Employee,25001 to 50000,Graduate,5,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_118
+25,Male,Single,Employee,25001 to 50000,Graduate,3,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_119
+27,Female,Married,Self Employeed,More than 50000,Graduate,5,12.9766,77.5993,560001,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_120
+26,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_121
+26,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,12.9635,77.5821,560002,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_122
+32,Male,Married,Employee,More than 50000,Ph.D,5,12.9635,77.5821,560002,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_123
+24,Male,Married,Self Employeed,More than 50000,Ph.D,6,12.9635,77.5821,560002,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_124
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,12.9635,77.5821,560002,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_125
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_126
+25,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_127
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_128
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_129
+28,Male,Married,Employee,More than 50000,Post Graduate,3,13.0019,77.5713,560003,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_130
+32,Female,Married,Employee,More than 50000,Graduate,1,13.0019,77.5713,560003,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_131
+23,Male,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,560003,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_132
+19,Male,Single,Student,No Income,Graduate,2,13.0019,77.5713,560003,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_133
+19,Female,Single,Student,No Income,Graduate,4,12.9537,77.6176,560047,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_134
+27,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9698,77.75,560066,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_135
+25,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.998,77.6227,560005,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_136
+33,Male,Married,Employee,More than 50000,Ph.D,5,12.998,77.6227,560005,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_137
+26,Female,Single,Employee,More than 50000,Graduate,3,12.998,77.6227,560005,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_138
+22,Female,Single,Student,Below Rs.10000,Post Graduate,4,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_139
+23,Male,Single,Student,No Income,Post Graduate,3,13.102,77.5864,560064,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_140
+22,Female,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_141
+25,Male,Married,Employee,25001 to 50000,Graduate,2,12.998,77.6227,560005,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_142
+30,Female,Married,House wife,No Income,School,5,12.998,77.6227,560005,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_143
+24,Male,Single,Student,No Income,Post Graduate,3,13.0138,77.5877,560006,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_144
+25,Male,Single,Employee,10001 to 25000,Post Graduate,3,13.0138,77.5877,560006,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_145
+23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_146
+24,Female,Single,Student,No Income,Post Graduate,4,13.0496,77.4941,560073,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_147
+32,Male,Married,Employee,10001 to 25000,Graduate,4,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_148
+22,Male,Single,Student,No Income,Post Graduate,4,12.9889,77.5741,560020,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_149
+23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_150
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_151
+20,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,560007,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_152
+21,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,560007,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_153
+24,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9579,77.6309,560007,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_154
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_155
+25,Male,Single,Employee,25001 to 50000,Post Graduate,3,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_156
+32,Female,Married,House wife,No Income,Graduate,3,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_157
+27,Male,Married,Employee,More than 50000,Ph.D,5,12.985,77.5533,560010,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_158
+20,Female,Single,Student,No Income,Graduate,2,12.9337,77.59,560011,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_159
+21,Male,Single,Student,No Income,Graduate,2,12.9337,77.59,560011,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_160
+26,Male,Single,Employee,More than 50000,Post Graduate,3,12.9337,77.59,560011,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_161
+25,Male,Single,Employee,10001 to 25000,Graduate,4,13.0166,77.6804,560016,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_162
+26,Male,Single,Employee,25001 to 50000,Post Graduate,3,13.014,77.5658,560012,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_163
+26,Female,Married,Employee,25001 to 50000,Graduate,3,13.014,77.5658,560012,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_164
+27,Male,Single,Employee,More than 50000,Ph.D,4,13.0503,77.5529,560013,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_165
+27,Female,Single,Student,No Income,Ph.D,5,13.0503,77.5529,560013,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_166
+24,Female,Single,Student,No Income,Post Graduate,5,12.9883,77.5987,560051,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_167
+25,Male,Married,Self Employeed,More than 50000,School,2,13.0626,77.5284,560015,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_168
+20,Male,Single,Student,No Income,Graduate,2,13.0626,77.5284,560015,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_169
+22,Male,Single,Student,No Income,Post Graduate,1,13.0626,77.5284,560015,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_170
+26,Female,Married,Student,Below Rs.10000,Ph.D,3,13.0166,77.6804,560016,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_171
+27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,13.0166,77.6804,560016,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_172
+25,Female,Single,Student,No Income,Post Graduate,3,12.9551,77.6593,560017,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_173
+24,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9551,77.6593,560017,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_174
+23,Female,Single,Employee,10001 to 25000,Graduate,6,12.9551,77.6593,560017,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_175
+22,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,560018,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_176
+26,Male,Married,Self Employeed,More than 50000,Post Graduate,3,12.957,77.5637,560018,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_177
+26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,12.957,77.5637,560018,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_178
+25,Female,Married,Self Employeed,25001 to 50000,Post Graduate,3,12.957,77.5637,560018,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_179
+29,Female,Married,Employee,More than 50000,Graduate,3,12.957,77.5637,560018,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_180
+23,Male,Single,Student,Below Rs.10000,Graduate,3,12.8652,77.524,560109,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_181
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.9698,77.75,560066,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_182
+22,Male,Single,Student,No Income,Graduate,2,12.9889,77.5741,560020,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_183
+32,Female,Married,House wife,No Income,School,5,12.9889,77.5741,560020,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_184
+28,Male,Married,Employee,More than 50000,Post Graduate,1,12.9925,77.5633,560021,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_185
+22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_186
+25,Male,Single,Employee,10001 to 25000,Graduate,2,12.9757,77.5586,560023,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_187
+26,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9757,77.5586,560023,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_188
+31,Male,Married,Self Employeed,More than 50000,School,6,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_189
+24,Male,Single,Student,No Income,Post Graduate,3,13.0487,77.5923,560024,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_190
+24,Male,Single,Employee,25001 to 50000,Post Graduate,2,12.9662,77.6068,560025,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_191
+31,Female,Married,Employee,More than 50000,Ph.D,5,12.9662,77.6068,560025,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_192
+26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_193
+24,Female,Married,Self Employeed,More than 50000,Graduate,2,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_194
+22,Female,Single,Student,No Income,Graduate,3,12.9343,77.6044,560029,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_195
+19,Male,Single,Student,No Income,Graduate,6,12.9442,77.6076,560030,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_196
+25,Male,Married,Employee,More than 50000,Post Graduate,6,12.9442,77.6076,560030,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_197
+23,Female,Married,House wife,No Income,School,6,12.9442,77.6076,560030,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_198
+23,Female,Single,Student,No Income,Graduate,2,13.0298,77.6047,560032,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_199
+23,Male,Single,Student,No Income,Post Graduate,2,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_200
+24,Male,Single,Student,No Income,Post Graduate,5,12.9621,77.5376,560104,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_201
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_202
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_203
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_204
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_205
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,560034,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_206
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_207
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_208
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,560038,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_209
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,560041,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_210
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_211
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,560046,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_212
+23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,560049,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_213
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,560011,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_214
+32,Male,Married,Self Employeed,10001 to 25000,School,3,12.982,77.6256,560008,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_215
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,560045,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_216
+26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,560041,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_217
+31,Female,Married,House wife,No Income,Graduate,5,13.0078,77.5577,560055,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_218
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,13.0078,77.5577,560055,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_219
+21,Female,Single,Student,No Income,Post Graduate,1,12.9217,77.5936,560041,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_220
+23,Female,Single,Student,No Income,Graduate,2,12.9105,77.4842,560060,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_221
+26,Male,Married,Employee,10001 to 25000,Graduate,4,12.9105,77.4842,560060,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_222
+32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,560061,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_223
+25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,560062,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_224
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,560070,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_225
+21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,560070,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_226
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,560075,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_227
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,560075,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_228
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,560075,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_229
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_230
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_231
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,560080,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_232
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,560080,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_233
+25,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,560085,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_234
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,560092,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_235
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_236
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,560027,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_237
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_238
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,560095,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_239
+32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_240
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_241
+28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_242
+23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,560096,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_243
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,560097,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_244
+21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,560092,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_245
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,560093,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_246
+25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,560093,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_247
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,560091,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_248
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,560100,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_249
+29,Female,Married,Employee,25001 to 50000,Ph.D,3,12.9847,77.5491,560100,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_250
+21,Male,Single,Student,No Income,Graduate,6,12.9847,77.5491,560100,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_251
+20,Male,Single,Student,No Income,Graduate,3,12.9299,77.6848,560103,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_252
+22,Male,Single,Employee,10001 to 25000,Graduate,2,12.9299,77.6848,560103,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_253
+30,Female,Married,House wife,No Income,School,6,12.9828,77.6131,560042,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_254
+27,Male,Married,Self Employeed,More than 50000,Graduate,3,12.989,77.5332,560079,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_255
+23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_256
+30,Male,Married,Self Employeed,25001 to 50000,School,6,12.9251,77.4992,560059,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_257
+23,Male,Single,Student,No Income,Post Graduate,3,12.9967,77.7582,560067,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_258
+28,Female,Married,Employee,25001 to 50000,Post Graduate,6,12.9967,77.7582,560067,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_259
+30,Male,Married,Self Employeed,More than 50000,Graduate,6,12.9967,77.7582,560067,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_260
+24,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.957,77.5637,560018,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_261
+21,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,560018,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_262
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,12.9889,77.5741,560020,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_263
+25,Male,Married,Self Employeed,More than 50000,Post Graduate,4,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_264
+24,Female,Single,Employee,25001 to 50000,Graduate,2,12.8893,77.6399,560068,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_265
+26,Male,Married,Employee,10001 to 25000,Graduate,3,12.8893,77.6399,560068,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_266
+25,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9967,77.7582,560067,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_267
+22,Male,Single,Student,25001 to 50000,Graduate,3,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_268
+26,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_269
+23,Male,Single,Employee,10001 to 25000,Graduate,2,12.9925,77.5633,560021,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_270
+21,Female,Single,Employee,Below Rs.10000,Graduate,2,12.9925,77.5633,560021,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_271
+25,Male,Married,Self Employeed,25001 to 50000,Graduate,3,12.9561,77.5921,560027,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_272
+24,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9561,77.5921,560027,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_273
+22,Male,Married,Student,No Income,Graduate,2,13.0734,77.5464,560014,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_274
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_275
+24,Male,Married,Employee,More than 50000,Post Graduate,3,12.9515,77.4921,560056,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_276
+22,Female,Single,Student,No Income,Graduate,2,12.9515,77.4921,560056,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_277
+30,Male,Married,Employee,More than 50000,Graduate,5,12.9719,77.5128,560072,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_278
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_279
+19,Male,Single,Student,No Income,Graduate,6,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_280
+21,Female,Single,Student,No Income,Graduate,2,13.0103,77.5796,560080,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_281
+23,Male,Single,Student,No Income,Graduate,4,13.0103,77.5796,560080,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_282
+24,Female,Single,Employee,25001 to 50000,Graduate,3,12.8893,77.6399,560068,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_283
+26,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9828,77.6131,560042,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_284
+26,Female,Single,Student,No Income,Ph.D,2,12.9757,77.5586,560023,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_285
+25,Female,Single,Student,10001 to 25000,Graduate,2,12.9757,77.5586,560023,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_286
+28,Female,Married,Employee,25001 to 50000,Graduate,5,12.9757,77.5586,560023,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_287
+25,Female,Single,Student,No Income,Post Graduate,3,13.0734,77.5464,560014,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_288
+20,Female,Single,Student,No Income,Graduate,2,13.0734,77.5464,560014,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_289
+27,Female,Married,Self Employeed,More than 50000,Graduate,6,13.0734,77.5464,560014,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_290
+25,Female,Married,Employee,25001 to 50000,Graduate,3,13.0626,77.5284,560015,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_291
+24,Female,Single,Student,No Income,Post Graduate,5,13.0626,77.5284,560015,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_292
+25,Female,Married,Employee,More than 50000,Graduate,1,12.977,77.5773,560009,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_293
+25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,12.998,77.6227,560005,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_294
+24,Female,Married,Student,Below Rs.10000,Ph.D,5,13.0626,77.5284,560015,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_295
+24,Male,Single,Student,No Income,Post Graduate,3,13.0626,77.5284,560015,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_296
+22,Male,Single,Employee,10001 to 25000,Graduate,1,13.0138,77.5877,560006,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_297
+28,Male,Single,Employee,25001 to 50000,Post Graduate,2,13.0138,77.5877,560006,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_298
+25,Female,Single,Employee,More than 50000,Post Graduate,6,13.014,77.5658,560012,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_299
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,560017,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_300
+22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,560019,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_301
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_302
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,560103,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_303
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_304
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,560042,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_305
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_306
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,560048,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_307
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_308
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,560009,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_309
+32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,560061,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_310
+25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,560062,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_311
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,560070,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_312
+21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,560070,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_313
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,560075,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_314
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,560075,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_315
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,560075,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_316
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_317
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_318
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,560080,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_319
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,560080,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_320
+21,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,560085,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_321
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,560092,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_322
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_323
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,560027,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_324
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_325
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,560095,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_326
+32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_327
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_328
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_329
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_330
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_331
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_332
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,560034,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_333
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_334
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_335
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,560038,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_336
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,560041,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_337
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_338
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,560046,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_339
+23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,560049,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_340
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,560011,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_341
+22,Male,Married,Self Employeed,10001 to 25000,School,3,12.982,77.6256,560008,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_342
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,560045,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_343
+26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,560041,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_344
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_345
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_346
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,560036,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_347
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,560034,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_348
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,560034,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_349
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_350
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_351
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,560038,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_352
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,560041,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_353
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,560043,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_354
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,560046,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_355
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,560075,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_356
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,560075,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_357
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,560075,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_358
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_359
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,560038,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_360
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,560080,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_361
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,560080,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_362
+31,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,560085,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_363
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,560092,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_364
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_365
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,560027,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_366
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,560076,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_367
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,560095,False,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_368
+30,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_369
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_370
+28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,560095,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_371
+23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,560096,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_372
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,560097,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_373
+21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,560092,True,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_374
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,560093,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_375
+25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,560093,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_376
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,560091,False,Negative ,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_377
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,560100,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_378
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_379
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,560103,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_380
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_381
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,560042,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_382
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,560001,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_383
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,560048,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_384
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_385
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,560009,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_386
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,560078,True,Positive,Bengaluru,IN,respondent_survey,onlinefoods_bangalore_community,onf_387

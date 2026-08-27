@@ -1,0 +1,62 @@
+/* SensorSpine design tokens — dark default (professional AI ops console) */
+:root {
+  color-scheme: dark;
+
+  /* base surfaces */
+  --bg: #0b1220;
+  --bg-raise: #101a2e;
+  --surface: #131f36;
+  --surface-2: #182642;
+  --hairline: #22304d;
+  --hairline-strong: #2e3f63;
+
+  /* text */
+  --text: #e6edf7;
+  --text-muted: #8fa3bf;
+  --text-faint: #5c6f8e;
+
+  /* semantic accents */
+  --demand: #3b82f6;   /* demand / forecast */
+  --ai: #a78bfa;       /* AI / model */
+  --teal: #14b8a6;     /* redistribution */
+  --good: #22c55e;     /* balanced / healthy */
+  --warn: #f59e0b;     /* warning / moderate */
+  --bad: #ef4444;      /* shortage / critical */
+  --hist: #64748b;     /* historical / inactive */
+
+  --accent: var(--demand);
+  --accent-contrast: #ffffff;
+
+  /* spacing scale */
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 20px;
+  --s6: 24px; --s8: 32px; --s10: 40px; --s12: 48px;
+
+  /* radii */
+  --r-sm: 6px; --r-md: 10px; --r-lg: 14px; --r-full: 999px;
+
+  /* shadows */
+  --shadow-1: 0 1px 2px rgba(0,0,0,.35);
+  --shadow-2: 0 6px 24px rgba(0,0,0,.35);
+  --shadow-focus: 0 0 0 2px rgba(59,130,246,.55);
+
+  /* type scale */
+  --fs-xs: 11px; --fs-sm: 12.5px; --fs-md: 14px; --fs-lg: 16px;
+  --fs-xl: 20px; --fs-2xl: 26px; --fs-3xl: 32px;
+  --font: ui-sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono: ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: #f3f6fb;
+  --bg-raise: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f6f8fc;
+  --hairline: #dde5f0;
+  --hairline-strong: #c4d2e5;
+  --text: #16233b;
+  --text-muted: #55677f;
+  --text-faint: #8595ab;
+  --shadow-1: 0 1px 2px rgba(23,43,77,.08);
+  --shadow-2: 0 8px 28px rgba(23,43,77,.10);
+}

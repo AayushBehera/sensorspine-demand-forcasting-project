@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SensorSpine · AI Ops Assistant</title>
+  <link rel="stylesheet" href="/css/tokens.css" />
+  <link rel="stylesheet" href="/css/base.css" />
+  <link rel="stylesheet" href="/css/components.css" />
+  <link rel="stylesheet" href="/css/chat.css" />
+  <link rel="stylesheet" href="/vendor/leaflet.css" />
+</head>
+<body>
+  <div class="chat-shell">
+    <header class="chat-top">
+      <div class="brand">
+        <span class="logo">◈</span>
+        <span>SensorSpine</span>
+        <span class="muted">AI Ops Assistant</span>
+      </div>
+      <div class="top-actions">
+        <span class="sim-chip" id="llm-badge">AI · …</span>
+        <button class="icon-btn" id="theme-btn" aria-label="Toggle theme">🌓</button>
+      </div>
+    </header>
+
+    <main id="messages" class="messages">
+      <div class="greeting">
+        <h1>Ask SensorSpine anything about your food operation.</h1>
+        <p>Demand, surplus, redistribution, live weather, food context, the model —
+           answered with charts, tables and maps from your data.</p>
+      </div>
+    </main>
+
+    <div id="suggested" class="suggested"></div>
+
+    <form id="composer" class="composer" autocomplete="off">
+      <input id="chat-input" class="chat-input" type="text"
+             placeholder="e.g. Where is the highest shortage risk this week, and what's the weather doing?"
+             maxlength="1000" />
+      <button class="btn primary" type="submit">Send</button>
+    </form>
+    <div class="foot-note">
+      Operational records are synthetic · India food-context layer is real ·
+      weather via Open-Meteo
+    </div>
+  </div>
+
+  <script src="/vendor/echarts.min.js"></script>
+  <script src="/vendor/leaflet.js"></script>
+  <script type="module" src="/js/chat.js"></script>
+</body>
+</html>

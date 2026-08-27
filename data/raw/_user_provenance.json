@@ -1,0 +1,122 @@
+[
+  {
+    "dataset_name": "rs251_monthly_food_inflation",
+    "source": "Rajya Sabha unstarred question AU3123 annexure (Session 251)",
+    "publisher": "Rajya Sabha Secretariat / Ministry of Statistics",
+    "content": "Monthly y-o-y food-price inflation %, India, 2014-2020",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\rs251_monthly_food_inflation.csv",
+    "download_date": "2026-08-22T18:20:05.375651+00:00",
+    "size_bytes": 542,
+    "sha256": "dc14f6580312a16ea5b983306854f3ccc0e5345b51bb5ba9caa452bef0fae420"
+  },
+  {
+    "dataset_name": "rs249_food_processing_factories_by_state",
+    "source": "Rajya Sabha answer AU2319 (Session 249)",
+    "publisher": "Rajya Sabha Secretariat / Ministry of FPI",
+    "content": "Registered vs operating food-processing factories by State/UT",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\rs249_food_processing_factories_by_state.csv",
+    "download_date": "2026-08-22T18:20:05.381203+00:00",
+    "size_bytes": 897,
+    "sha256": "89177a98a40989d8ec3fcd61c004e3438355e8cd7cd22331ce703e07478ed021"
+  },
+  {
+    "dataset_name": "rs256_avg_foodgrain_stocks",
+    "source": "Rajya Sabha answer AU392 (Session 256)",
+    "publisher": "Rajya Sabha Secretariat / DFPD",
+    "content": "Average foodgrain stock (MT) in central pool godowns by year",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\rs256_avg_foodgrain_stocks.csv",
+    "download_date": "2026-08-22T18:20:05.385674+00:00",
+    "size_bytes": 87,
+    "sha256": "2dba132f5af1ae78166bc0b8cbc416d2e5bcb98f144514d7f89f1f4b52b16a7f"
+  },
+  {
+    "dataset_name": "market_arrivals_district_year",
+    "source": "Statistical abstract Table 5.5 - total market arrivals of foodgrains and non-foodgrains (Punjab districts)",
+    "publisher": "State statistics (Agmarknet-derived)",
+    "content": "District x Year market arrival quantities, 2007-2018",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\table5_5_market_arrivals_district_year.csv",
+    "download_date": "2026-08-22T18:20:05.390332+00:00",
+    "size_bytes": 5892,
+    "sha256": "1846c1649cf94ca2a72af9805ff35cba70264f66b727f50137ed1766bdb2e5f6"
+  },
+  {
+    "dataset_name": "crop_production_national",
+    "source": "Rajya Sabha answer AU2108 D-E (Session 265)",
+    "publisher": "Rajya Sabha Secretariat / Ministry of Agriculture",
+    "content": "National crop production in million tonnes",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\rs265_crop_production_national.csv",
+    "download_date": "2026-08-22T18:20:05.395517+00:00",
+    "size_bytes": 445,
+    "sha256": "1bbd30014af7442f256de4da739d96ae9b2d59e2c1d1508f5a7b48ffeba29689"
+  },
+  {
+    "dataset_name": "rs249_as287b_state_year",
+    "source": "Rajya Sabha answer AS287-B (Session 249)",
+    "publisher": "Rajya Sabha Secretariat",
+    "content": "State x year quantities; exact metric not verifiable from the extract alone - stored with interpretation_uncertain flag",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\rs249_as287b_state_year_unverified_metric.csv",
+    "download_date": "2026-08-22T18:20:05.398838+00:00",
+    "size_bytes": 153,
+    "sha256": "360afb1a5bf6f233e880efecd038777b38e29e60bb1fda83173093b122ff7086"
+  },
+  {
+    "dataset_name": "hces2023_maharashtra_level4",
+    "source": "data.gov.in HCES 2022-23 unit-level export (GUID filename)",
+    "publisher": "MoSPI via data.gov.in",
+    "content": "HCES 2022 Level-4 rows, 2,516 urban Maharashtra households (generic Col1-Col20 headers; meaning not decodable without official Level-4 layout - preserved verbatim)",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\hces2023_maharashtra_level4_unit_data.csv",
+    "download_date": "2026-08-22T18:20:05.405964+00:00",
+    "size_bytes": 226546,
+    "sha256": "a224726d4168843a208c62702de845ad0361ec775c376b6bdff27a068a37edb1"
+  },
+  {
+    "dataset_name": "hces2324_factsheet_tables",
+    "source": "MoSPI HCES 2022-23/2023-24 factsheet workbook",
+    "publisher": "Ministry of Statistics & PI",
+    "content": "%Composition of MPCE, trend in consumption levels, MPCE levels across survey years (rural/urban)",
+    "provenance_type": "OFFICIAL",
+    "file": "data\\raw\\official\\hces2324_factsheet_tables.xlsx",
+    "download_date": "2026-08-22T18:20:05.415069+00:00",
+    "size_bytes": 21380,
+    "sha256": "5811d1c355944d7d797bb0593094aa305f8124eeccb1fd3523171bb50ab3d996"
+  },
+  {
+    "dataset_name": "onlinefoods_bangalore_survey",
+    "source": "Kaggle sudarshan24byte/online-food-dataset (identical copy supplied by user)",
+    "publisher": "community; original survey unknown",
+    "content": "~388 Bangalore respondents: demographics + online food order outcome + feedback sentiment + pincode",
+    "provenance_type": "COMMUNITY",
+    "file": "data\\raw\\community\\onlinefoods_bangalore_survey.csv",
+    "download_date": "2026-08-22T18:20:05.421258+00:00",
+    "size_bytes": 35806,
+    "sha256": "7d89df81f8f303ae7c025aa5c593d1c86eea0f5e8857312cbd76d659e6241340"
+  },
+  {
+    "dataset_name": "unep_fwi_by_country_sectors",
+    "source": "Kaggle joebeachcapital/food-waste = UNEP Food Waste Index country table (via kagglehub)",
+    "publisher": "UNEP (Kaggle republish)",
+    "content": "214 countries: household/retail/FOOD-SERVICE waste kg/capita/year + tonnes/year; India = 94 combined / 28 food service",
+    "provenance_type": "RESEARCH",
+    "file": "data\\raw\\research\\unep_food_waste_by_country_kaggle.csv",
+    "download_date": "2026-08-22T18:20:05.424642+00:00",
+    "size_bytes": 33924,
+    "sha256": "563a4c78cd106702863c1c974e8eda0468e5a70108ccedbead4920567820c02f"
+  },
+  {
+    "dataset_name": "openfoodfacts_extract",
+    "content": "124 rows, 0 usable product names -> UNUSABLE extract",
+    "status": "REJECTED - empty sample; kept only as evidence",
+    "provenance_type": "COMMUNITY",
+    "file": "data\\raw\\community\\openfoodfacts_selected_columns_EMPTY.csv",
+    "download_date": "2026-08-22T18:20:05.429363+00:00",
+    "size_bytes": 1358,
+    "sha256": "3a0f4449c6dccda13900786deb210eb26e9017052403bdc9be789bf5194bda2d"
+  }
+]

@@ -1,0 +1,36 @@
+state_ut,factories_registered,factories_operating,source_dataset
+A & N Islands,5,4,rs249_factories_official
+Andhra Pradesh,5859,4702,rs249_factories_official
+Arunachal Pradesh,30,29,rs249_factories_official
+Assam,1410,1389,rs249_factories_official
+Bihar,881,751,rs249_factories_official
+Chandigarh,19,14,rs249_factories_official
+Chhattisgarh,1309,1168,rs249_factories_official
+Dadra & Nagar Haveli,8,7,rs249_factories_official
+Daman & Diu,32,31,rs249_factories_official
+Delhi,166,140,rs249_factories_official
+Goa,98,97,rs249_factories_official
+Gujarat,2239,1745,rs249_factories_official
+Harayana,917,751,rs249_factories_official
+Himachal Pradesh,193,169,rs249_factories_official
+Jammu and Kashmir,176,164,rs249_factories_official
+Jharkhand,228,220,rs249_factories_official
+Karnataka,2251,2037,rs249_factories_official
+Kerala,1629,1556,rs249_factories_official
+Madhya Pradesh,875,818,rs249_factories_official
+Maharasthra,2808,2424,rs249_factories_official
+Manipur,28,26,rs249_factories_official
+Meghalaya,26,25,rs249_factories_official
+Nagaland,21,21,rs249_factories_official
+Odisha,1127,1007,rs249_factories_official
+Puducherry,60,55,rs249_factories_official
+Punjab,2906,2498,rs249_factories_official
+Rajasthan,882,821,rs249_factories_official
+Sikkim,19,19,rs249_factories_official
+Tamil Nadu,5077,4583,rs249_factories_official
+Telangana,3968,3443,rs249_factories_official
+Tripura,95,91,rs249_factories_official
+Uttar Pradesh,2067,1752,rs249_factories_official
+Uttarakhand,372,305,rs249_factories_official
+West Bengal,1959,1849,rs249_factories_official
+Total,39740,34711,rs249_factories_official

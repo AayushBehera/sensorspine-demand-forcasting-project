@@ -1,0 +1,560 @@
+
+===== page 28 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6: Consumption of milk & milk products, vegetables, fruits, 
+egg, fish & meat, edible oil, spices, beverages during the last 7 days  
+OBJECTIVES AND SCOPE  
+This section is for recording the quantity and value of consumption of milk & milk products, 
+vegetables, fruits, egg, fish & meat, edible oil, spices and beverages by the household during 
+the last 7 days preceding the date of the survey.   
+IMPLEMENTATION NOTES  
+To be canvassed for all the selected households. 
+Section 6.1 :Consumption of milk & milk productsduring the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.1 What is the quantity and value of the milk & milk products consumed by the household  during last 7 
+days? 
+ 
+Item item 
+code 
+ quantity and value of the item consumed during last 7 days 
+consumption out of home 
+produce 
+total consumption 
+(incl. consumption out of 
+home produce) source# 
+quantity*  
+(0.000) value (Rs.) quantity*  
+(0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+milk: liquid (litre) 160        
+milk: condensed/ 
+powder 
+162       @ 
+ghee 164       @ 
+curd, yogurt 163       @ 
+butter 165       @ 
+ice-cream  166       @ 
+paneer 003       @ 
+prepared sweets 004       @ 
+cheese (gm) 005       @ 
+other milk products& 
+(lassi, butter milk, 
+others) 
+092       @ 
+milk & milk products: 
+sub-total 
+169        
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home-grown stock-3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities-6, others-9 and given in dropdown 
+list in software package. 
+3. ‘@’ Source code cannot be 2, 3 or 4 for these items. For home -produced, 
+consumption should be recorded against ingredients. 
+4. ‘&’ To collect the value of other milk products, Drop Down Menu (DDM), 
+will be provided for items (i)lassi (006), (ii) butter milk (007 ) and (iii) others 
+(167).] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items (e.g. curd from milk, or pickles from 
+vegetables, spices, etc., or milk-based sweets from milk and sugar.Thus there is no concept of home 
+produce of curd or ghee, home produce of pickles, or home produce of liquid tea.] 
+ 
+ 
+ 
+===== page 29 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.2: Consumption of vegetables during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.2 What is the quantity and value of the vegetablesconsumed by the household during last 7 days? 
+ 
+item item code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of home 
+produce) source# 
+quantity* 
+(0.000) value (Rs.) quantity* (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+onion 201        
+potato 200        
+tomato 202        
+palak/other leafy 
+vegetables 
+206        
+brinjal 203        
+lady's finger 208        
+green chillies 207        
+cauliflower 211        
+gourd, pumpkin 213        
+cabbage 212        
+parwal/patal, 
+kundru 
+210        
+beans, barbati 215        
+Peas 214        
+carrot 205        
+radish 204        
+lemon (no.) 216        
+other vegetables 217        
+vegetables: sub-
+total 
+219        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock-2, both 
+purchase and home -grown stock-3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities-6, others-9 and given in dropdown 
+list in software package.] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 30 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.3: Consumption of fruits (fresh) during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.3 What is the quantity and value of the fruits (fresh)consumed by the household during last 7 days? 
+ 
+item item 
+code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of home 
+produce) source# 
+quantity* 
+(0.000) value (Rs.) quantity* (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+banana (no.) 220        
+apple 236        
+coconut (no.) 224        
+mango 231        
+grapes 237        
+green coconut (no.) 225        
+guava 226        
+papaya 230        
+orange, sweet 
+lime(mausami) (no.) 
+228        
+watermelon 222        
+kharbooza 232        
+other fresh fruits & 
+(litchi, 
+pears/nashpati, 
+singara, jackfruit, 
+berries, pineapple, 
+others) 
+093        
+fruits (fresh): sub-
+total 
+239        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home -grown stock -3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities -6, others-9 and given in dropdown 
+list in software package. 
+3. ‘ &’ To collect quantity and value of other fresh fruits , Drop Down M enu 
+(DDM), will be provided with items (i) litchi (235), (ii) pears/nashpati (233), 
+(iii) singara (227), (iv) jackfruit (221), (v) berries (234) (vi) pineapple (no.) 
+(223), and (vii) others (238).] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock  (e.g. milk) and 
+not food obtained in the home by processing of other food items (e.g. curd from milk, or pickles from 
+vegetables, spices, etc., or milk-based sweets from milk and sugar.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 31 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.4: Consumption of fruits (dry) during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.4 What is the quantity and value of the fruits (dry) consumed by the household during last 7 days? 
+ 
+item item 
+code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of home 
+produce) source# 
+quantity* 
+(0.000) value (Rs.) quantity* (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+coconut: copra 240        
+groundnut 241        
+cashew nut 243        
+dates 242        
+other nuts (almond, 
+pistachio, walnut, 
+hazelnut, etc.) 
+245        
+raisin(kishmish), 
+monacca, etc. 
+246        
+other dry fruits& 
+(apricot, dry fig:anjeer,  
+others) 
+094        
+fruits (dry): sub-total 249        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home -grown stock-3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities-6, others-9 and given in dropdown 
+list in software package. 
+3. ‘ &’ To collect quantity and value of other dry fruits, Drop Down Menu 
+(DDM), will be provided with items (i) apricot (008), (ii) dry fig: anjeer  
+(010), and (iii) others (247).] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 32 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.5: Consumption of egg, fish & meat during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.5 What is the quantity and value of the egg, fish &meatconsumed by the household during last 7 days? 
+ 
+item item 
+code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption 
+(incl. consumption out of home 
+produce) source# 
+quantity* 
+(0.000) value (Rs.) quantity* (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+eggs (no.) 190        
+chicken 195        
+fish, prawn  191        
+goat meat/ 
+mutton 
+192        
+beef/ buffalo meat 193        
+pork  194        
+others: birds, crab, 
+oyster, etc. 
+196        
+egg, fish &meat: 
+sub-total 
+199        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home -grown stock-3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities-6, others-9 and given in dropdown 
+list in software package.] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 33 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.6: Consumption of edible oilduring the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.6 What is the quantity and value of the edible oilconsumed by the household during last 7 days? 
+ 
+item item 
+code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of home 
+produce) source# 
+quantity* 
+(0.000) value (Rs.) quantity* (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+mustard oil 181        
+refined oil [sunflower, 
+soyabean, palm oil, 
+vegetable oil, etc.] 
+184        
+groundnut oil 182        
+coconut oil 183        
+edible oil - PDS 188       1 
+edible oil: others& 
+(vanaspati, margarine, 
+others) 
+095        
+edible oil- free$ 075       1 
+edible oil: sub-total 189        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home -grown stock-3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities-6, others-9 and given in dropdown 
+list in software package. 
+3. ‘&’ To collect quantity and value of  edible oil: others, Drop Down Menu 
+(DDM), will be provided with items (i) vanaspati, margarine (180) and (ii) 
+others (185). 
+4.‘$’Consumption of edible oil(075) received free of cost from PDS shop/FPS 
+or Point of Sale (POS) under Pradhan Mantri Garib Kalyan Ann Yojana 
+(PMGKAY) or from any other state specific schemes are to be recorded under 
+this item. 
+5. Consumption of edible oil received at subsidized rate from PDS shops are 
+to be recorded against edible oil-PDS] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items (e.g. curd from milk, or pickles from 
+vegetables, spices, etc., or milk-based sweets from milk and sugar.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 34 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.7: Consumption of spices during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q 6.7 What is the quantity and value of the spicesconsumed by the household during last 7 days? 
+ 
+item item 
+code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption 
+(incl. consumption out of home 
+produce) source# 
+quantity 
+(0.000) value (Rs.) quantity (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+dry chillies (gm) 256        
+turmeric (gm) 254        
+cumin (jeera (gm)) 252        
+coriander (dhania 
+(gm)) 
+253        
+garlic (gm) 251        
+ginger (gm) 250        
+curry powder (gm) 258        
+black pepper (gm) 255        
+tamarind (gm) 257        
+oilseeds (gm) 260        
+poppy seeds (gm) 263        
+other spices (gm) 261        
+spices: sub-total 269        
+ 
+[Instruction to software : ‘#’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home-grown stock-3, only free collection-4, only exchange of goods and services-5, only 
+gifts/charities-6, others-9 and given in dropdown list in software package] 
+ 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items (e.g. curd from milk, or pickles from 
+vegetables, spices, etc., or milk-based sweets from milk and sugar.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 35 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 6.8: Consumption of beverages during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q6.8 What is the quantity and value of the beveragesconsumed by the household during last 7 days? 
+ 
+item item 
+code 
+ quantity and value of the item consumed during last 7 days  
+consumption out of home 
+produce 
+total consumption 
+(incl. consumption out of 
+home produce) 
+source# 
+quantity* 
+(0.000) value (Rs.) quantity* 
+(0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+tea: cups (no.) 270        
+tea: leaf (gm) 271        
+coffee: cups (no.) 272        
+coffee: powder (gm) 273        
+mineral water (litre) 274        
+soda drinks (litre) 011       @ 
+other cold beverages: 
+bottled/canned (litre) 
+275       @ 
+fruit juice and shake , 
+sugarcane/ date -palm 
+juice, etc. 
+276       @ 
+other beverages: cocoa,  
+drinking chocolate, health 
+drinks, etc. 
+278       @ 
+beverages: sub-total  279        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home-grown stock-3, only free collection -4, only exchange of 
+goods and services -5, only gifts/charities-6, others-9 and given in dropdown 
+list in software package. 
+3. ‘@’ Source code cannot be 2, 3 or 4 for these items. For home -produced, 
+consumption should be recorded against ingredients.] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock (e.g. milk) and 
+not food obtained in the home by processing of other food items (e.g. curd from milk, or pickles from 
+vegetables, spices, etc., or milk -based sweets from milk and sugar . Thus there is no concept of home 
+produce of liquid tea.] 
+ 
+Go to Section 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 36 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 7: Consumption of processed food during the last 7 days 
+OBJECTIVES AND SCOPE  
+ This section is for recording the quantity and value of consumption of served processed food 
+and packaged processed food by the household during the last 7 days preceding the date of the 
+survey.   
+IMPLEMENTATION NOTES  
+ To be canvassed for all the selected households. 
+Section 7.1: Consumption of served processed food during the last 7 days 
+Question 
+no. 
+Question description and code structure  
+Q7.1 What is the quantity and value of the served processed foodpurchased and/or consumed  by the 
+household during last 7 days? 
+ 
+Item item 
+code 
+ quantity and value of the item purchased and/or 
+consumed during last 7 days 
+total consumption 
+source# 
+quantity (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) 
+cooked meals purchased at subsidized rate  (no.)  076     
+cooked meals purchased  (no.) 280     
+cooked meals received free in workplace $ (no.) 281     
+cooked meals received as assistance $(no.) 282     
+cooked snacks purchased [samosa, puri, paratha,  
+momo, roll, chowmein, idli, dosa, vada, chops, 
+pakoras, pav-bhaji, vada-pao, etc.] 
+283     
+other served processed food** 284     
+served processed food: sub-total  289     
+ 
+[Instruction to software: 1. ‘ #’ Source codes are: only purchase -1, only exchange of goods and 
+services-5, only gifts/charities-6, others- 9 and given in dropdown list in 
+software package. 
+2.  ‘**’ includes chaat, golgappa (puchka/panipuri), bhelpuri, etc. 
+3. ‘$’ Do not include cooked meals received from other households. 
+4. Cooked meals purchased at subsidised rates available under different 
+Government social welfare schemes like, Amma Canteen, Kalaignar, Maa 
+Canteen, Shivbhojan scheme etc., or from Charitable organization are to 
+be recorded against item 076.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

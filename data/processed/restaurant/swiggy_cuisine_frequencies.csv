@@ -1,0 +1,31 @@
+category_or_unmapped,cuisine_token,count
+beverages,beverages,2646
+beverages,juices,301
+beverages,steakhouse,2
+chicken_meat,kebabs,112
+dairy,ice cream,1983
+dairy,ice cream cakes,3
+fish,seafood,122
+rice_cereals,biryani,4637
+rice_cereals,south indian,4387
+sugar_sweets,desserts,2631
+sugar_sweets,bakery,2503
+sugar_sweets,sweets,1090
+unmapped,chinese,6465
+unmapped,indian,5789
+unmapped,fast food,2060
+unmapped,american,1578
+unmapped,snacks,1506
+unmapped,italian,1212
+unmapped,continental,975
+unmapped,arabian,845
+unmapped,healthy food,672
+unmapped,mughlai,573
+unmapped,street food,429
+unmapped,bengali,425
+unmapped,chaat,400
+unmapped,asian,316
+unmapped,punjabi,280
+vegetables,salads,160
+wheat_breads,north indian,10485
+wheat_breads,pizzas,3014

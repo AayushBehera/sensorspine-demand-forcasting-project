@@ -1,0 +1,290 @@
+===== page 23 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section4.1:  General information onpurchase/payment  
+Question 
+no. 
+Question description and code structure  
+Q4.1.3 Whether any online purchase/payment ha s been made to buy one or more of the following items 
+during thereference period? 
+ 
+S. No. item category reference 
+period 
+(in days) 
+please select the check box if 
+purchased online during the 
+reference period 
+(1) (2) (3) (4) 
+1. Groceries (cereals, pulses & its products, edible oil, 
+sugar& salt, spices, beverages, etc.)  
+30  
+2. Milk & its products 7  
+3. Vegetables 7  
+4. Fruits (fresh) 7  
+5. Fruits (dry) 7  
+6. Egg, fish & meat 7  
+7. Served processed food (meals, snacks, drinks , etc.) 7  
+8. Packed processed food 7  
+9. Other food items 7  
+ 
+Q4.1.4 Did the household perform any ceremony during the last 30 days? 
+o yes-1 
+o no-2 
+ 
+Q4.1.5 How many meals were served to non -household members during the last 30 
+days? 
+Text box 
+ Go to Section 5 
+===== page 24 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section5: Consumption of cereals , pulses, sugar and salt during the last 
+30 days 
+OBJECTIVES AND SCOPE  
+ This section is for recording the quantity and value of consumption of cereals, pulses, sugar 
+and salt by the household during the last 30 days preceding the date of the survey.  
+IMPLEMENTATION NOTES  
+ To be canvassed for all the selected households. 
+ 
+Section5.1:Consumption of cereals during the last 30 days 
+Question 
+no. 
+Question description and code structure  
+Q5.1 What is the quantity and value of the cereals and cereal substitutes  consumed by the household  
+during last 30 days? 
+Item item 
+code 
+ quantity and value of the item consumed during last 30 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of 
+home produce) source# 
+quantity* 
+(0.000) 
+value 
+(Rs.) 
+quantity* 
+(0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+rice-free$ 061       1 
+wheat/atta- free$ 062       1 
+coarse grains&- free$ 
+(jowar, bajra, maize, 
+barley, ragi, small millets) 
+070       1 
+rice – PDS 101       1 
+rice – other sources 102        
+chira 103        
+muri 105       @ 
+other rice products 
+(khoi/lawa,etc.) 
+106       @ 
+wheat/ atta – PDS 107       1 
+wheat/ atta – other sources 108        
+maida 110       @ 
+suji, rawa 111       @ 
+vermicelli (sewai) 112       @ 
+other wheat products 114       @ 
+coarse grains-PDS& 
+(jowar, bajra, maize, 
+barley, ragi, small millets) 
+001       1 
+coarse grains -other 
+sources&(jowar, bajra, 
+maize, barley, ragi, small 
+millets & its products) 
+002        
+other cereals& products 122        
+cereal: sub-total  129        
+cereal substitutes : 
+tapioca, etc. 
+139        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘#’Source codes are: only purchase -1, only home -grown stock-2, both 
+purchase and home -grown stock-3, only free collection -4, only exchange 
+of goods and services-5, only gifts/charities-6, received free through PDS 
+– 7, others-9 and given in dropdown list in software package. 
+3. ‘@’ Source code cannot be 2, 3 or 4 for these items. Source code 7 will 
+be applicable only for items 101, 107, 001, 055, 056, 057, 058, 059, 
+060.For home -produced, consumption should be recorded against 
+ingredients. 
+4. ‘$’Consumption of rice-free (061), wheat/atta -free (062)& coarse 
+===== page 25 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+grains-free (070) received free of cost from PDS shop/FPS or Point of 
+Sale (POS) under Pradhan Mantri Garib Kalyan Ann Yojana (PMGKAY) 
+or from any other state specific schemes are to be recorded under these 
+item categories respectively.  
+5. Consumption of rice, wheat/atta, coarse grains received at subsidized 
+rate from PDS shops are to be recorded against rice -PDS, wheat/atta-
+PDS & coarse grains-PDS. 
+6‘&’ T o collect quantity and value of coarse grains for the States: 
+Rajasthan, Punjab, Haryana, Gujarat, Andhra Pradesh, Tamil Nad u, 
+Kerala, Karnataka, Telangana &  Uttar Pradesh, Drop Down Menu 
+(DDM), will be provided; 
+ For coarse grains (PDS), quantity and value is to be recorded under 
+(i) jowar & its products (055), (ii) bajra & its products (056), (iii) 
+maize & its products (057), (iv) barley & its products (058), (v) ragi & 
+its products(059), and (vi) small millets & its products (060); 
+ 
+ For coarse grains (other sources), quantity and value is to be recorded 
+under (i) jowar& its products  (115), (ii) bajra& its products  (116), 
+(iii) maize & its products  (117), (iv) barley & its products  (118), (v) 
+ragi& its products(121), and (vi) small millets & its products (120);  
+ 
+ For coarse grains received free of cost from PDS shop/FPS or Point of 
+Sale ( POS)under PMGKAY or any other state specific scheme, 
+quantity and value is to be recorded under (i) jowar & its products 
+(063), (ii) bajra & its products (064), (iii) maize & its products (065), 
+(iv) barley & its products (066), (v) ragi & its products (067), and (vi) 
+small millets & its products (068)] 
+ 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock  (e.g. milk) 
+and not food obtained in the home by processing of other food items (e.g. curd from milk, or 
+pickles from vegetables, spices, etc., or milk-based sweets from milk and sugar.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 26 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 5.2: Consumption of pulses during the last 30 days 
+Question 
+no. 
+Question description and code structure 
+Q5.2 What is the quantity and value of the pulses & pulse products consumed by the household  during 
+last 30 days? 
+Item item 
+code 
+ quantity and value of the item consumed during last 30 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of home 
+produce) source# 
+quantity* 
+(0.000) value (Rs.) quantity* (0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+arhar, tur 140        
+moong 143        
+masur 144        
+urd 145        
+gram: split 141        
+gram: whole 142        
+peas, chickpeas 146        
+other pulses 
+(khesari, etc.) 
+148        
+besan, gram 
+products 
+150        
+pulses - PDS 158       1 
+other pulse products 
+(soya chunks, etc.) 
+152        
+pulses –free$ 071       1 
+gram- free$ 072       1 
+pulses & pulse 
+products: sub-total 
+159        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock-2, both 
+purchase and home-grown stock-3, only free collection -4, only exchange 
+of goods and services-5, only gifts/charities-6, received free through PDS 
+-7, others-9 and given in dropdown list in software package.Source code 7 
+will be applicable only for item 158. 
+3. ‘$’Consumption of pulses (071) &gram(072) received free of cost from 
+PDS shop /FPS or Point of Sale ( POS)under Pradhan Mantri Garib 
+Kalyan Ann Yojana (PMGKAY) or from any other state specific schemes 
+are to be recorded under these item categories respectively.  
+4.Consumption of pulses received at subsidized rate from PDS shops are 
+to be recorded against pulses-PDS] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livestock  (e.g. milk) 
+and not food obtained in the home by processing of other food items.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+===== page 27 =====
+Questionnaire FDQ                                                                                                             
+ 
+Household Consumption Expenditure Survey: 2023-24                            
+ 
+Section 5.3: Consumption of sugar & salt during the last 30 days 
+Question 
+no. 
+Question description and code structure 
+Q5.3 What is the quantity and value of the salt &sugarconsumed by the household during last 30 days? 
+ 
+Item item 
+code 
+ quantity and value of the item consumed during last 30 days  
+consumption out of home 
+produce 
+total consumption  
+(incl. consumption out of home 
+produce) source# 
+quantity*  
+(0.000) 
+value 
+(Rs.) 
+quantity*  
+(0.000) value (Rs.) 
+(1) (2) (3) (4) (5) (6) (7) 
+salt –free$ 073       1 
+sugar- free$ 074       1 
+salt - PDS 178       1 
+salt – other sources 170        
+sugar –PDS 171       1 
+sugar – other sources 172       @ 
+jaggery (gur) 173        
+candy, misri 174       @ 
+honey 175        
+salt & sugar: sub-total 179        
+ 
+[Instruction to software: 1. ‘*’Unit is Kg. Unless otherwise specified in col. (1). 
+2. ‘ #’ Source codes are: only purchase -1, only home -grown stock -2, both 
+purchase and home-grown stock-3, only free collection-4, only exchange of 
+goods and services -5, only gifts/charities-6, received free through PDS -7, 
+others-9 and given in dropdown list in so ftware package. Source code 7 
+will be applicable only for items 178, 171. 
+3. ‘@’ Source code cannot be 2, 3 or 4 for these items. For home-produced, 
+consumption should be recorded against ingredients. 
+4.‘$’Consumption of salt (073)&sugar (074) received free of cost from PDS 
+shop/FPS or Point of Sale (POS) under Pradhan Mantri Garib Kalyan Ann 
+Yojana (PMGKAY) or from any other state specific schemes are to be 
+recorded under these item categories respectively.  
+5. Consumption of salt & sugar received at subsidized rate from PDS shops 
+are to be recorded against salt-PDS, sugar-PDS.] 
+[Instruction to enumerator: Total consumption of the item includes consumption of home produce. 
+Consumption from home produce means produce of cultivation or produce of livesto ck (e.g. milk) 
+and not food obtained in the home by processing of other food items (e.g. curd from milk, or pickles 
+from vegetables, spices, etc., or milk-based sweets from milk and sugar.] 
+Go to Section 6 

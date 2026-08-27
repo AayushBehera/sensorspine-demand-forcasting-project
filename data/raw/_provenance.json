@@ -1,0 +1,38 @@
+[
+  {
+    "dataset_name": "hces2324_bengaluru",
+    "source_url": "https://data.opencity.in/dataset/d3a6bc19-1a9d-4a72-9b33-990537931a40/resource/aef9093d-5270-4852-8175-d53629dcfd64/download/bengaluru_hces_levels_data.zip",
+    "download_date": "2026-08-22T17:26:15.379007+00:00",
+    "file_format": "zip",
+    "size_bytes": 2093459,
+    "sha256": "269ef7ff602da9bf1336a1bf62b9631b24c4e6f86391da5988515522d5217006",
+    "provenance_type": "OFFICIAL"
+  },
+  {
+    "dataset_name": "swiggy_india_restaurants",
+    "source_url": "https://raw.githubusercontent.com/shashanksingh1717/Swiggy-database/main/database.csv",
+    "download_date": "2026-08-22T17:26:16.959616+00:00",
+    "file_format": "csv",
+    "size_bytes": 8720154,
+    "sha256": "0627462589a0c83e510f07ec1298cfb20967c764c57f3db6bb924f5c1798ff2d",
+    "provenance_type": "COMMUNITY"
+  },
+  {
+    "dataset_name": "ifct2017_compositions_index",
+    "source_url": "https://raw.githubusercontent.com/ifct2017/ifct2017/main/compositions/index.csv",
+    "download_date": "2026-08-22T17:26:17.525814+00:00",
+    "file_format": "csv",
+    "size_bytes": 1154715,
+    "sha256": "8d27bacfd6a73454971b8c73ccc06420ee236fcdae78b26d60442175e4a0aa22",
+    "provenance_type": "RESEARCH"
+  },
+  {
+    "dataset_name": "unep_food_waste_index_owid",
+    "source_url": "https://ourworldindata.org/grapher/food-waste-per-capita.csv?useColumnShortNames=true",
+    "download_date": "2026-08-22T17:26:18.051357+00:00",
+    "file_format": "csv",
+    "size_bytes": 20066,
+    "sha256": "f5cafd9a7e54fbd15db1adbab5c6d15fb7ac4123a8f0ee5536a5024d003166df",
+    "provenance_type": "OFFICIAL"
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "normal_day": {
+    "series": 3,
+    "high_surplus_series": 0,
+    "shortage_series": 0,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "weekend": {
+    "series": 1,
+    "high_surplus_series": 0,
+    "shortage_series": 0,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "weekend_quiet": {
+    "series": 1,
+    "high_surplus_series": 0,
+    "shortage_series": 0,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "holiday_low_demand": {
+    "series": 2,
+    "high_surplus_series": 2,
+    "shortage_series": 0,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "festival_spike": {
+    "series": 2,
+    "high_surplus_series": 0,
+    "shortage_series": 2,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "campus_event": {
+    "series": 2,
+    "high_surplus_series": 1,
+    "shortage_series": 1,
+    "recommendations": 1,
+    "top_score": 72.2,
+    "total_transferable_units": 60.0,
+    "is_synthetic": true
+  },
+  "weather_disruption": {
+    "series": 2,
+    "high_surplus_series": 1,
+    "shortage_series": 1,
+    "recommendations": 1,
+    "top_score": 64.8,
+    "total_transferable_units": 22.0,
+    "is_synthetic": true
+  },
+  "overproduction": {
+    "series": 3,
+    "high_surplus_series": 3,
+    "shortage_series": 0,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "shortage_everywhere": {
+    "series": 2,
+    "high_surplus_series": 0,
+    "shortage_series": 2,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "redistribution_opportunity": {
+    "series": 2,
+    "high_surplus_series": 1,
+    "shortage_series": 1,
+    "recommendations": 1,
+    "top_score": 68.6,
+    "total_transferable_units": 40.0,
+    "is_synthetic": true
+  },
+  "no_eligible_destination": {
+    "series": 1,
+    "high_surplus_series": 1,
+    "shortage_series": 0,
+    "recommendations": 0,
+    "top_score": null,
+    "total_transferable_units": 0,
+    "is_synthetic": true
+  },
+  "multiple_candidates": {
+    "series": 3,
+    "high_surplus_series": 1,
+    "shortage_series": 2,
+    "recommendations": 2,
+    "top_score": 70.5,
+    "total_transferable_units": 110.0,
+    "is_synthetic": true
+  }
+}

@@ -1,0 +1,21 @@
+sl_no,crop,production_mt,source_dataset
+1,Rice,136.7,rs265_crop_production_official
+2,Wheat,112.93,rs265_crop_production_official
+3,Jowar,4.74,rs265_crop_production_official
+4,Bajra,10.7,rs265_crop_production_official
+5,Maize,35.67,rs265_crop_production_official
+6,Ragi,1.56,rs265_crop_production_official
+7,Small Millets,0.43,rs265_crop_production_official
+8,Barley,1.65,rs265_crop_production_official
+9,Nutri Cereals,17.41,rs265_crop_production_official
+10,Nutri/Coarse Cereals,54.73,rs265_crop_production_official
+11,Cereals,304.36,rs265_crop_production_official
+12,Tur,3.39,rs265_crop_production_official
+13,Gram,11.58,rs265_crop_production_official
+14,Urad,2.3,rs265_crop_production_official
+15,Moong,2.92,rs265_crop_production_official
+16,Lentil,1.75,rs265_crop_production_official
+17,Other Kharif Pulses,0.78,rs265_crop_production_official
+18,Other Rabi Pulses,1.78,rs265_crop_production_official
+Total Pulses,Total Pulses,24.49,rs265_crop_production_official
+Total Foodgrains,Total Foodgrains,328.85,rs265_crop_production_official
