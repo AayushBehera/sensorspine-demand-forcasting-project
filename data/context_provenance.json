@@ -1,10 +1,10 @@
 {
-  "weather_real_rows": 68,
-  "weather_synthetic_rows": 2,
+  "weather_real_rows": 153,
+  "weather_synthetic_rows": 27,
   "weather_source": "Open-Meteo ERA5 Bengaluru + synthetic gap-fill",
   "holiday_source": "`holidays` package - India (official calendars)",
-  "holidays_matched": 3,
+  "holidays_matched": 10,
   "transactions_source": "SYNTHETIC operational simulator (no real campus POS data exists)",
-  "generation_seed": 5,
-  "days": 70
+  "generation_seed": 42,
+  "days": 180
 }
